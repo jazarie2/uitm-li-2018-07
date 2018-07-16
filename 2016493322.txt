@@ -1,3 +1,5 @@
 first report file L.I (16 jul 2018)
-Added dummy line
-Added dummy line
+
+16/07 - 1702
+report update , set (requirement,document,draft) , study APTANA STUDIO
+
