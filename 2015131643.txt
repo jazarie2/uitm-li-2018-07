@@ -13,3 +13,9 @@ First report of the day
 1. learn how to use MIT app inventor
 2. finishing tutorial for MIT app inventor
 3. try building a simple app
+
+Time: 5:30
+Second report for the day
+1. finish simple "log in" application
+2. finish simple "tap to hear" application
+3. improve the simple log in application for futher use.
