@@ -5,3 +5,5 @@ report update , set (requirement,document,draft) , study APTANA STUDIO
 
 17/07 - 1150
 roughly sketching web app flow chart from every point
+"	1715
+completed the report (information required from the client to design / develop the web apps)
