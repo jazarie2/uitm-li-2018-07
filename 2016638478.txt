@@ -1,2 +1,4 @@
-first day internship
-hello
+2018-07-17 12.00PM
+
+Report
+-installed a PyCharm using student purchase
