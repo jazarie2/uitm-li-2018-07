@@ -1,3 +1,7 @@
 2018-07-17 #1 (12.00 p.m)
 - downloaded pycharm from the internet
 - searching some image processing and open cv project as references
+
+2018-7-17 #2 (5.30pm)
+- bookmarks some url from the internet about open cv project
+- searched or offline video from youtube 
