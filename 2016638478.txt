@@ -1,4 +1,5 @@
-2018-07-17 12.00PM
+2018-07-17 5.30PM
 
 Report
--installed a PyCharm using student purchase
+-search an example of Python OpenCV Vehicle Detection
+-search a live video of vehicles at the traffic
