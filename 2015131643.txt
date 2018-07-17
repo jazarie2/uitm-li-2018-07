@@ -4,3 +4,12 @@ Date: 16/7/2018 #2
 1. learn how to use github.
 2. learn how to commit report.
 3. received required task.
+
+
+
+Date: 17/7/2018
+Time: 12.00
+First report of the day
+1. learn how to use MIT app inventor
+2. finishing tutorial for MIT app inventor
+3. try building a simple app
