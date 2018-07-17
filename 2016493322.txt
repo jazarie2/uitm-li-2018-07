@@ -3,3 +3,5 @@ first report file L.I (16 jul 2018)
 16/07 - 1702
 report update , set (requirement,document,draft) , study APTANA STUDIO
 
+17/07 - 1150
+roughly sketching web app flow chart from every point
