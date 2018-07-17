@@ -1,2 +1,3 @@
-2018-07-16 #2
-second file creation for industrial training 2018
+2018-07-16
+report 5.30 p.m
+learnt about github and commit report
