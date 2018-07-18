@@ -1,6 +1,13 @@
 2018-07-18
-report 12.00 p.m
-sent FYP report to En. Aziz thru whatsapp application
-completed Google Form task by En. Asri
-bookmarks the following url from the internet
-1.https://goo.gl/forms/KlLHGeQROfCHAyjI2
+report 5.30 p.m
+
+Installed aptana studio 3.6.1 :
+1)https://github.com/aptana/studio3/releases
+2)https://nodejs.org/download/release/v0.10.42/x64/
+
+Installed MySQL workbench :
+1)https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+Trying to intall cakePHP but there was an error in XAMMP :
+1)Port 3306 in use by ""C:\Program Files\MySQL\MySQL Server 5.7\bin\mysqld.exe" --defaults-file="C:\ProgramData\MySQL\MySQL Server 5.7\my.ini" MYSQL57"!
+2)Tried to change the port but nothing happen
