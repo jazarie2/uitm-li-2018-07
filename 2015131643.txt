@@ -30,3 +30,12 @@ First report of the day
         2. https://groups.google.com/forum/#!topic/programming-with-app-inventor/-sNLP7c0GWg
 	3. http://explore.appinventor.mit.edu/content/textgroup
 3. updating the logbook
+
+Time: 5:30
+Second report of the day
+1. Finish about the search engine app.
+2. Trying to do adding pic and sound application.
+   url: 1. http://appinventor.mit.edu/explore/content/accessing-images-and-sounds.html
+	2. https://www.youtube.com/watch?v=MAjoLSQB1yw
+3. complete the adding pic and sound application but with minor problem
+4. search a way to solves the minor problem.
