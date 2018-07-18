@@ -1,6 +1,14 @@
 18-07-2018
 12pm
-try n error downloading mysql, it says "some companent missing"
-study on how to use mysql at https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-creating-a-model.html
-error in "pengesahan lapor diri Latihan Industri"
-cannot download Aptana Studio from http://www.aptana.com/products/studio3/download.html# , after inserting email still the download button wont working
++ try n error downloading mysql, it says "some companent missing"
++ study on how to use mysql at https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-creating-a-model.html
++ error in "pengesahan lapor diri Latihan Industri"
++ cannot download Aptana Studio from http://www.aptana.com/products/studio3/download.html# , after inserting email still the download button wont working
+
+5:30pm
++ download aptana from other website, https://github.com/aptana/studio3/releases
++ study aptana https://www.htmlgoodies.com/html5/tutorials/aptana-studio-3-guided-tour-and-tutorial-create-a-web-project-using-the-html-5-boilerplate-framework.html
++ but our learning are a bit limited due to some part we dont have and computer error
++ study MVC:
+	https://en.wikipedia.org/wiki/Web_framework
+	https://blog.scottlogic.com/2013/12/06/JavaScript-MVC-frameworks.html
