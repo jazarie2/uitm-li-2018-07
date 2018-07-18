@@ -19,3 +19,14 @@ Second report for the day
 1. finish simple "log in" application
 2. finish simple "tap to hear" application
 3. improve the simple log in application for futher use.
+
+
+Date: 18/7/2018
+Time: 12.00
+First report of the day
+1. continue to improve the app
+2. looking a way to make a search app.
+   url: 1. http://appinventor.mit.edu/explore/ai2/activity-starter.html
+        2. https://groups.google.com/forum/#!topic/programming-with-app-inventor/-sNLP7c0GWg
+	3. http://explore.appinventor.mit.edu/content/textgroup
+3. updating the logbook
