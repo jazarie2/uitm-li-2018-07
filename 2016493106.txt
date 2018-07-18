@@ -1,10 +1,7 @@
-2018-07-17 #1 (12.00 p.m)
-- downloaded pycharm from the internet 
-- searching some image processing and open cv project as references
 
-2018-7-17 #2 (5.30pm)
-- bookmarks some url from the internet about open cv project 
-i) https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
-ii) https://github.com/andrewssobral/vehicle_detection_haarcascades/blob/master/vehicle_detection.cpp
-iii) https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906
-- searched or offline video from youtube and internet 
+2018-07-18 #1 (12.00 p.m)
+- download python 3.7 from the internet
+- download opencv from the internet
+- download open cv library
+
+

@@ -1,9 +1,6 @@
-first report file L.I (16 jul 2018)
-
-16/07 - 1702
-report update , set (requirement,document,draft) , study APTANA STUDIO
-
-17/07 - 1150
-roughly sketching web app flow chart from every point
-"	1715
-completed the report (information required from the client to design / develop the web apps)
+18-07-2018
+12pm
+try n error downloading mysql, it says "some companent missing"
+study on how to use mysql at https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-creating-a-model.html
+error in "pengesahan lapor diri Latihan Industri"
+cannot download Aptana Studio from http://www.aptana.com/products/studio3/download.html# , after inserting email still the download button wont working
