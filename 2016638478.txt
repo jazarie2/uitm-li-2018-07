@@ -1,5 +1,8 @@
-2018-07-17 5.30PM
+2018-07-18 12.00PM
 
 Report
--search an example of Python OpenCV Vehicle Detection
--search a live video of vehicles at the traffic
+-Installed an OpenCV on windows and enable it in PyCharm
+
+url:
+-
+https://stackoverflow.com/questions/32660114/how-to-install-opencv-on-windows-and-enable-it-for-pycharm-without-using-the-pac
