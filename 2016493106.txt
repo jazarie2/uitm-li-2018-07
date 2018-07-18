@@ -1,7 +1,12 @@
 
 2018-07-18 #1 (12.00 p.m)
-- download python 3.7 from the internet
-- download opencv from the internet
-- download open cv library
+- download python 3.7 from the internet. url : python.org
+- download opencv from the internet. url : opencv.org
+- download open cv library. url : https://www.lfd.uci.edu/~gohlke/pythonlibs/ 
 
+
+2018-07-18 #2 (5.30 p.m)
+- install python extension for opencv 
+- install Pyqt5 in opencv
+- learned tutorial step 1 for pycharm : https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
