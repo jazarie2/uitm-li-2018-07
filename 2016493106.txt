@@ -9,6 +9,14 @@ installed python extension "opencv_python-3.4.2+contrib-cp36-cp36m-win_amd64.whl
 
 open and do some tutorial for pycharm  
 
+2018-07-19
+report 5.30 p.m
+
+run pycharm and do some tutorial :
+1) https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+
+Looks for suitable project to try it in pycharm
+
 2018-07-18 
 report 12.00 p.m
 
