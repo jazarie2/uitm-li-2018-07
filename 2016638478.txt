@@ -1,18 +1,18 @@
-2018-07-18 12.00PM
+2018-07-19
+report 12.00PM
 
-Report
--Installed an Python  2.7.10
+Installed the packages numpy,matplotlib and pip in pycharm using cmd in windows
 
-url:
--
-https://stackoverflow.com/questions/32660114/how-to-install-opencv-on-windows-and-enable-it-for-pycharm-without-using-the-pac
+2018-07-18
 
-2018-07-18 5.30PM
+Report 5.30PM
+Download and install the OpenCV executable
+Add OpenCV in the system path
+1)https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+2)https://www.python.org/downloads/release/python-2710/
 
-Report
--Download and install the OpenCV executable
--Add OpenCV in the system path
+2018-07-18
 
-url:
--https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
--https://www.python.org/downloads/release/python-2710/
+Report 12.00PM
+Installed an Python  2.7.10:
+1)https://stackoverflow.com/questions/32660114/how-to-install-opencv-on-windows-and-enable-it-for-pycharm-without-using-the-pac
