@@ -1,4 +1,11 @@
+
 2018-07-19
+
+report 5.30PM
+
+Analysing the OpenCV Python program for Vehicle detection in a Video frame:
+1)https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+
 report 12.00PM
 
 Installed the packages numpy,matplotlib and pip in pycharm using cmd in windows
