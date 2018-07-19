@@ -1,12 +1,11 @@
+2018-07-19 
+report 12.00 p.m
+ 
+Uninstalled python 3.7 and installed python 3.6.4 :
+1)https://www.python.org/downloads/windows/
 
-2018-07-18 #1 (12.00 p.m)
-- download python 3.7 from the internet. url : python.org
-- download opencv from the internet. url : opencv.org
-- download open cv library. url : https://www.lfd.uci.edu/~gohlke/pythonlibs/ 
+installed python extension "opencv_python-3.4.2+contrib-cp36-cp36m-win_amd64.whl" :
+1)https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-
-2018-07-18 #2 (5.30 p.m)
-- install python extension for opencv 
-- install Pyqt5 in opencv
-- learned tutorial step 1 for pycharm : https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+open and do some tutorial for pycharm  
 
