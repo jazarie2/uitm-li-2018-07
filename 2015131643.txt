@@ -39,3 +39,12 @@ Second report of the day
 	2. https://www.youtube.com/watch?v=MAjoLSQB1yw
 3. complete the adding pic and sound application but with minor problem
 4. search a way to solves the minor problem.
+
+
+Date: 19/7/2018
+Time: 12:00
+1. Learn how to use monaca.io
+-url: 1. https://ide.monaca.mobi/editor/5b4ff9cde78885193bf78250
+      2. https://docs.monaca.io/en/products_guide/
+      3. https://docs.monaca.io/en/tutorials/monaca_ide/testing_debugging/
+      4. https://www.youtube.com/watch?v=Dt6aCPoaAyo
