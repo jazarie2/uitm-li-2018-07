@@ -1,4 +1,12 @@
 2018-07-19
+
+report 5.30 p.m
+
+Change En Asri's form task platform from Google Form to Jotform :
+1)https://form.jotform.me/81984443096467
+
+Still fail to resolve the XAMPP's problem.
+
 report 12.00 p.m
 
 Still trying to resolve yesterday issue, tried several solution but still failed.
