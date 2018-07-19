@@ -48,3 +48,12 @@ Time: 12:00
       2. https://docs.monaca.io/en/products_guide/
       3. https://docs.monaca.io/en/tutorials/monaca_ide/testing_debugging/
       4. https://www.youtube.com/watch?v=Dt6aCPoaAyo
+
+Time: 5:30
+1. Still learning how to develop an application using monaca.io
+-url: 1. https://ide.monaca.mobi/project/5b503721e78885bd4431798e
+      2. https://www.youtube.com/watch?v=YYyWCegP4ec
+      3. https://jsfiddle.net/smartiolabs/womwgt1d/
+2. Trying to solve the small problem with the login system application
+-url: 1. https://www.youtube.com/watch?v=Q1pJQC3WY74
+      2. http://ai2.appinventor.mit.edu/?locale=en#5187919998484480
