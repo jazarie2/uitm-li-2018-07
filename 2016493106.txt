@@ -9,3 +9,42 @@ installed python extension "opencv_python-3.4.2+contrib-cp36-cp36m-win_amd64.whl
 
 open and do some tutorial for pycharm  
 
+2018-07-18 
+report 12.00 p.m
+
+download python 3.7 from the internet:
+1) python.org
+
+download opencv from the internet:
+1) opencv.org
+
+download open cv library: 
+1) https://www.lfd.uci.edu/~gohlke/pythonlibs/ 
+ 	 
+ 	 
+2018-07-18 
+report  5.30 p.m
+
+install python extension for opencv 
+install Pyqt5 in opencv
+learned tutorial step 1 for pycharm :
+1) https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+
+2018-07-17 
+report 12.00 p.m
+ 
+downloaded pycharm from the internet
+1) www.jetbrains.com
+
+searching some image processing and open cv project as references
+
+
+2018-7-17 
+report 5.30pm
+
+bookmarks some url from the internet about open cv project
+1)https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+2)https://www.codemade.io/fast-and-accurate-face-tracking-in-live-video-with-python/
+
+searched or offline video from youtube 
+1)www.youtube.com
