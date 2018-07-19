@@ -11,3 +11,27 @@ Installed MySQL workbench :
 Trying to intall cakePHP but there was an error in XAMMP :
 1)Port 3306 in use by ""C:\Program Files\MySQL\MySQL Server 5.7\bin\mysqld.exe" --defaults-file="C:\ProgramData\MySQL\MySQL Server 5.7\my.ini" MYSQL57"!
 2)Tried to change the port but nothing happen
+
+2018-07-18
+report 12.00 p.m
+sent FYP report to En. Aziz thru whatsapp application
+completed Google Form task by En. Asri
+bookmarks the following url from the internet
+1.https://goo.gl/forms/KlLHGeQROfCHAyjI2
+
+2018-07-17
+report 5.30 p.m
+get thr information required from the client to design / develop the web apps
+
+2018-07-17
+report 12.00 p.m
+Making some correction in FYP report before handing it to En. Aziz
+
+2018-07-16
+report 5.30 p.m
+learnt about github and commit report
+
+2018-07-16 #2
+second file creation for industrial training 2018
+
+first file creation for industrial training 2018
