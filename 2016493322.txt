@@ -5,12 +5,17 @@
 3. study relationship between cakephp and composer
 4. install xampp
 
+5:30pm
+1. setting up xampp by following youtube tutorial
+2. linked mysql and xampp
+
 18-07-2018
 12pm
 + try n error downloading mysql, it says "some companent missing"
 + study on how to use mysql at https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-creating-a-model.html
 + error in "pengesahan lapor diri Latihan Industri"
 + cannot download Aptana Studio from http://www.aptana.com/products/studio3/download.html# , after inserting email still the download button wont working
+
 5:30pm
 + download aptana from other website, https://github.com/aptana/studio3/releases
 + study aptana https://www.htmlgoodies.com/html5/tutorials/aptana-studio-3-guided-tour-and-tutorial-create-a-web-project-using-the-html-5-boilerplate-framework.html
@@ -22,6 +27,7 @@
 17-07-2018
 12pm
 1. roughly sketching web app flowchart from every point
+
 5:30pm
 1. completed the report (information required from the client to design / develop the web apps)
 
