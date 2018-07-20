@@ -1,4 +1,8 @@
-19-07-2017
+20-07-2018
+12pm
+1. continue setting up xampp (port number and administrator issue)
+
+19-07-2018
 12pm
 1. install cakephp's composer https://github.com/composer/windows-setup/releases/tag/v4.8.0
 2. installation met error because of php file, image given
