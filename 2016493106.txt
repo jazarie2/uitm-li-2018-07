@@ -1,3 +1,12 @@
+2018-07-20
+report 12.00pm
+
+rewrite the coding from the internet and try to run the program but nothing happened.
+1) https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+
+search some tutorial video for uploading video as input
+
+
 2018-07-19 
 report 12.00 p.m
  
