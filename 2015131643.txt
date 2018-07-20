@@ -1,4 +1,10 @@
 Date: 20/7/2018
+Time: 5:30
+1. Continue the imageviewer app
+2. Trying to open image from phone gallery but still unsolvable.
+3. Updating the logbook.
+
+Date: 20/7/2018
 Time: 12:00
 1. Updating the logbook and start doing industrial training report.
 2. Separate the imageviewer app from the login system to solve the problem
