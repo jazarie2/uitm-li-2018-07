@@ -1,25 +1,39 @@
-Date: 16/7/2018 #2
--First report for LI
-(5:30pm)
-1. learn how to use github.
-2. learn how to commit report.
-3. received required task.
+Date: 20/7/2018
+Time: 12:00
+1. Updating the logbook and start doing industrial training report.
+2. Separate the imageviewer app from the login system to solve the problem
+-url: 1. https://www.google.com/search?q=mit+app+inventor&oq=mit&aqs=chrome.4.69i57j69i60l3j69i59l2.3316j0j7&sourceid=chrome&ie=UTF-8
+      2. http://appinventor.mit.edu/explore/ai2/concepts/images-and-sounds.html
+3. Decide to continue in the evening.
 
-
-
-Date: 17/7/2018
-Time: 12.00
-First report of the day
-1. learn how to use MIT app inventor
-2. finishing tutorial for MIT app inventor
-3. try building a simple app
-
+Date: 19/7/2018
 Time: 5:30
-Second report for the day
-1. finish simple "log in" application
-2. finish simple "tap to hear" application
-3. improve the simple log in application for futher use.
+1. Still learning how to develop an application using monaca.io
+-url: 1. https://ide.monaca.mobi/project/5b503721e78885bd4431798e
+      2. https://www.youtube.com/watch?v=YYyWCegP4ec
+      3. https://jsfiddle.net/smartiolabs/womwgt1d/
+2. Trying to solve the small problem with the login system application
+-url: 1. https://www.youtube.com/watch?v=Q1pJQC3WY74
+      2. http://ai2.appinventor.mit.edu/?locale=en#5187919998484480
 
+Date: 19/7/2018
+Time: 12:00
+1. Learn how to use monaca.io
+-url: 1. https://ide.monaca.mobi/editor/5b4ff9cde78885193bf78250
+      2. https://docs.monaca.io/en/products_guide/
+      3. https://docs.monaca.io/en/tutorials/monaca_ide/testing_debugging/
+      4. https://www.youtube.com/watch?v=Dt6aCPoaAyo
+
+
+Date: 18/7/2018
+Time: 5:30
+Second report of the day
+1. Finish about the search engine app.
+2. Trying to do adding pic and sound application.
+   url: 1. http://appinventor.mit.edu/explore/content/accessing-images-and-sounds.html
+	2. https://www.youtube.com/watch?v=MAjoLSQB1yw
+3. complete the adding pic and sound application but with minor problem
+4. search a way to solves the minor problem.
 
 Date: 18/7/2018
 Time: 12.00
@@ -31,29 +45,37 @@ First report of the day
 	3. http://explore.appinventor.mit.edu/content/textgroup
 3. updating the logbook
 
+Date: 17/7/2018
 Time: 5:30
-Second report of the day
-1. Finish about the search engine app.
-2. Trying to do adding pic and sound application.
-   url: 1. http://appinventor.mit.edu/explore/content/accessing-images-and-sounds.html
-	2. https://www.youtube.com/watch?v=MAjoLSQB1yw
-3. complete the adding pic and sound application but with minor problem
-4. search a way to solves the minor problem.
+Second report for the day
+1. finish simple "log in" application
+2. finish simple "tap to hear" application
+3. improve the simple log in application for futher use.
+
+Date: 17/7/2018
+Time: 12.00
+First report of the day
+1. learn how to use MIT app inventor
+2. finishing tutorial for MIT app inventor
+3. try building a simple app
 
 
-Date: 19/7/2018
-Time: 12:00
-1. Learn how to use monaca.io
--url: 1. https://ide.monaca.mobi/editor/5b4ff9cde78885193bf78250
-      2. https://docs.monaca.io/en/products_guide/
-      3. https://docs.monaca.io/en/tutorials/monaca_ide/testing_debugging/
-      4. https://www.youtube.com/watch?v=Dt6aCPoaAyo
+Date: 16/7/2018 #2
+-First report for LI
+(5:30pm)
+1. learn how to use github.
+2. learn how to commit report.
+3. received required task.
 
-Time: 5:30
-1. Still learning how to develop an application using monaca.io
--url: 1. https://ide.monaca.mobi/project/5b503721e78885bd4431798e
-      2. https://www.youtube.com/watch?v=YYyWCegP4ec
-      3. https://jsfiddle.net/smartiolabs/womwgt1d/
-2. Trying to solve the small problem with the login system application
--url: 1. https://www.youtube.com/watch?v=Q1pJQC3WY74
-      2. http://ai2.appinventor.mit.edu/?locale=en#5187919998484480
+
+
+
+
+
+
+
+
+
+
+
+
