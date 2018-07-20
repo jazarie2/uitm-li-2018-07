@@ -1,3 +1,14 @@
+2018-07-20
+
+report 12.00 p.m
+
+Succeed in solving the port issue.
+
+Do some update in En. Asri's Jotform:
+1)https://form.jotform.me/81984443096467
+
+Trying to install cakephp.
+
 2018-07-19
 
 report 5.30 p.m
