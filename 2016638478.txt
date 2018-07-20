@@ -1,5 +1,9 @@
 2018-07-20
 
+report 5.30PM
+Learning about the basic of PyCharm 2018 and understand more about it:
+1)https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+
 report 12.00PM
 Searching for video of traffic at youtube.com to make as an inpt at the vehicle detection program:
 1)https://www.youtube.com/watch?v=K4NiaXmXIhE
