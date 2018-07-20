@@ -2,6 +2,14 @@
 12pm
 1. continue setting up xampp (port number and administrator issue)
 
+6:30pm
+1. stop and will continue tomorrow setting up xampp
+2. install composer and rewrite few line of code for cake php:
+	1)https://book.cakephp.org/3.0/en/installation.html
+	2)https://www.thecodedeveloper.com/install-cakephp-3-using-composer/
+	3)https://www.youtube.com/watch?v=2pAGVELOChU&t=208s
+	4)https://github.com/composer/windows-setup/blob/master/README.md
+
 19-07-2018
 12pm
 1. install cakephp's composer https://github.com/composer/windows-setup/releases/tag/v4.8.0
