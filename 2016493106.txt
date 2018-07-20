@@ -4,9 +4,23 @@ report 12.00pm
 rewrite the coding from the internet and try to run the program but nothing happened.
 1) https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
 
-search some tutorial video for uploading video as input
+search some tutorial video for uploading video as input.
 
+2018-07-20
+report 5.30pm
 
+search some basic project to test in pycharm, but found that using python 2.7 only:
+1) https://youtu.be/QUICeT7z-Xw
+2) https://youtu.be/Hp2fiB7cLO0
+
+download and install python 2.7.8 : 
+1)python.org
+
+download numpy for python 2.7 :
+1)https://pypi.org/project/numpy/#files
+
+leave lab early because EN. Asri want to close the lab at 5.00pm
+ 
 2018-07-19 
 report 12.00 p.m
  
