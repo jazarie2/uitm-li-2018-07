@@ -1,6 +1,19 @@
 2018-07-20
 
-report 12.00 p.m
+-report 6.30 p.m
+
+Succeed in intsalling cakePHP in XAMPP:
+1)https://book.cakephp.org/3.0/en/installation.html
+2)https://www.thecodedeveloper.com/install-cakephp-3-using-composer/
+3)https://www.youtube.com/watch?v=2pAGVELOChU&t=208s
+4)https://github.com/composer/windows-setup/blob/master/README.md
+
+Learning how to use MySQL workbench:
+https://www.youtube.com/watch?v=RSHevYMwCVw
+
+The task with En. Asri(form) completed.
+
+-report 12.00 p.m
 
 Succeed in solving the port issue.
 
@@ -11,14 +24,14 @@ Trying to install cakephp.
 
 2018-07-19
 
-report 5.30 p.m
+-report 5.30 p.m
 
 Change En Asri's form task platform from Google Form to Jotform :
 1)https://form.jotform.me/81984443096467
 
 Still fail to resolve the XAMPP's problem.
 
-report 12.00 p.m
+-report 12.00 p.m
 
 Still trying to resolve yesterday issue, tried several solution but still failed.
 Might continue to solve this untill evening.

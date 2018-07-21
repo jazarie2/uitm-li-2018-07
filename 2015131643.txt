@@ -1,3 +1,18 @@
+Date: 21/7/2018
+Time: 12:00
+1. Review with supervisor about this week progress.
+2. Received new task.
+	-install phycharm and phython 2.7 with library for mqtt.
+	-try integrating mit inventor with github.
+3. Create logo for company using paint.net software.
+ url: 1.https://www.getpaint.net/
+
+Date: 20/7/2018
+Time: 5:30
+1. Continue the imageviewer app
+2. Trying to open image from phone gallery but still unsolvable.
+3. Updating the logbook.
+
 Date: 20/7/2018
 Time: 12:00
 1. Updating the logbook and start doing industrial training report.
