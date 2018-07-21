@@ -1,3 +1,13 @@
+21-07-2018
+12pm
+1. meeting with En. Aziz
+	- divide task with hafizuddin
+	- set standard language
+	- set priority (front end, back end)
+	- tools like SPIGIT, LUCIDCHART in work
+	- create a shared repository with hafizuddin
+	- understanding cakeapp, xampp, wampp
+
 20-07-2018
 12pm
 1. continue setting up xampp (port number and administrator issue)
