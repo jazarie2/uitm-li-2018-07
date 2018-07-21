@@ -1,3 +1,13 @@
+2018-07-21
+
+-report 12.00 p.m
+
+held meeting with En. Aziz:
+1)uninstall xampp and replace with wamp
+2)learn cakephp in the official site
+3)seperate task and got to do the back end of the website while Ag do the front end
+4)submit log book to En Aziz to sign
+
 2018-07-20
 
 -report 6.30 p.m
