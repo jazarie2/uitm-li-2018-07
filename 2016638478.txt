@@ -1,5 +1,14 @@
 2018-07-23
 
+report 5.30pm
+copy coding from the internet and follow the steps : 
+1) https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+
+Try the coding but nothing happened
+
+Try to figure out the problems
+
+
 report 12.00PM
 Review week 1 progress
 
