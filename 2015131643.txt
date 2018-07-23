@@ -1,3 +1,14 @@
+Date: 23/7/2018
+Time: 5:30
+1. Trying to link between github and mit app inventor.
+2. Installing python 2.7 and it library.
+ url: 1. https://www.python.org/downloads/release/python-2713/
+      2. https://pypi.org/project/paho-mqtt/#files
+      3. https://www.youtube.com/watch?v=6RVmn9ycC2s
+3. Installing pycharm
+ url: 1. https://www.jetbrains.com/pycharm/download/#section=windows
+4. Decided to try the tutorial tomorrow.
+
 Date: 21/7/2018
 Time: 12:00
 1. Review with supervisor about this week progress.
@@ -5,7 +16,7 @@ Time: 12:00
 	-install phycharm and phython 2.7 with library for mqtt.
 	-try integrating mit inventor with github.
 3. Create logo for company using paint.net software.
- url: 1.https://www.getpaint.net/
+ url: 1. https://www.getpaint.net/
 
 Date: 20/7/2018
 Time: 5:30
