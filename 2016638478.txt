@@ -1,32 +1,61 @@
-2018-07-20
+2018-07-23
 
-report 5.30PM
-Learning about the basic of PyCharm 2018 and understand more about it:
-1)https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+report 12.00PM
+Review week 1 progress
+
+Download paint.net
+1)https://www.getpaint.net/download.html
+
+2018-07-21
+
+report 12.00PM
+Absent with permission from Encik Aziz because must seat for the MUET test. 
+
+2018-07-20
 
 report 12.00PM
 Searching for video of traffic at youtube.com to make as an inpt at the vehicle detection program:
 1)https://www.youtube.com/watch?v=K4NiaXmXIhE
 
-2018-07-19
-
 report 5.30PM
-Analysing the OpenCV Python program for Vehicle detection in a Video frame:
-1)https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+Learning about the basic of PyCharm 2018 and understand more about it:
+1)https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+
+2018-07-19
 
 report 12.00PM
 Installed the packages numpy,matplotlib and pip in pycharm using cmd in windows
 
-2018-07-18
-
-Report 5.30PM
-Download and install the OpenCV executable
-Add OpenCV in the system path
-1)https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
-2)https://www.python.org/downloads/release/python-2710/
+report 5.30PM
+Analysing the OpenCV Python program for Vehicle detection in a Video frame:
+1)https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
 
 2018-07-18
 
 Report 12.00PM
 Installed an Python  2.7.10:
 1)https://stackoverflow.com/questions/32660114/how-to-install-opencv-on-windows-and-enable-it-for-pycharm-without-using-the-pac
+
+Report 5.30PM
+Install python extension for opencv 
+Learned tutorial step 1 for pycharm :
+1)https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+2)https://www.python.org/downloads/release/python-2710/
+
+2018-07-17
+
+Report 12.00PM
+Downloaded pycharm from the internet:
+1) www.jetbrains.com
+
+Searching some image processing and open cv project as references
+1)https://github.com/Nikhil22/python-vehicle-detection
+
+Report 5.30PM
+Bookmarked some url from the internet about open cv project
+1)https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+2)https://www.codemade.io/fast-and-accurate-face-tracking-in-live-video-with-python/
+
+Searched for offline video from youtube 
+1)www.youtube.com
+
