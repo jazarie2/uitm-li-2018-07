@@ -1,5 +1,26 @@
 2018-07-24
 
+-report 5.30 p.m
+
+meet an error after trying to reopen cakephp using wamp:
+(Sorry,
+
+There is an error.
+
+There is Wampserver path (c:/wamp64)
+into Windows PATH environnement variable: (C:\wamp64\bin\php\php7.2.4)
+
+It seems that a PHP installation is declared in the environment variable PATH
+C:\wamp64\bin\php\php7.2.4
+
+Wampserver does not use, modify or require the PATH environment variable.
+Using a PATH on Wampserver or PHP version
+is detrimental to the proper functioning of Wampserver.)
+
+Deleted the path but still cannot open cakephp.
+So I decided to use XAMPP back.
+will learn cakephp tommorow
+
 -report 12.00 p.m
 
 installed cakePHP on WAMP:
