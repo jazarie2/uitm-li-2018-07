@@ -1,5 +1,11 @@
 2018-07-24
 
+report 5.30pm
+Trying to find the solution for this error:
+"SyntaxError: 'break' outside loop":
+1)https://stackoverflow.com/questions/2462566/python-break-outside-loop
+
+
 reprt 12.00pm
 Still trying to debug the coding from the geeksforgeeks website
 
