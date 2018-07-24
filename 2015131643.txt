@@ -1,4 +1,10 @@
-Date: 34/7/2018
+Date: 24/7/2018
+Time: 5:30
+1. Learn to use the pycharm and rying some tutorials.
+ url: 1. https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+      2. https://www.youtube.com/watch?v=QAaXNt0oqSI
+
+Date: 24/7/2018
 Time: 12:00
 1. Learning about the basic of python language.
  url: 1. https://www.youtube.com/watch?v=N4mEzFDjqtA
