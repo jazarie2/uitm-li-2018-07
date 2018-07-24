@@ -2,6 +2,9 @@
 5:30pm
 1. install wamp
 2. setting up cakephp and wamp but met error
+	it says "Open the file at CakePHP-App/app/Config/database.php.default and update the database properties"
+	but we only found "C:\wamp64\www\CakePHP-App\cakephp-3.6.7\config",
+	we didnt find "database.php"
 
 21-07-2018
 12pm
