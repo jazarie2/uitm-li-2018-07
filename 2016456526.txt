@@ -1,3 +1,12 @@
+2018-07-24
+
+-report 12.00 p.m
+
+installed cakePHP on WAMP:
+1)https://book.cakephp.org/3.0/en/installation.html
+2)https://github.com/composer/windows-setup#Details
+3)https://www.youtube.com/watch?reload=9&v=2pAGVELOChU&t=208s
+
 2018-07-23
 
 -report 5.30 p.m
