@@ -1,5 +1,10 @@
 2018-07-25
 
+report 5.30pm
+Find another Python coding as a reference to fix the error in geeksforgeeks coding
+1)https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
+2)https://github.com/kcg2015/Vehicle-Detection-and-Tracking
+
 report 12.00pm
 Still trying to find another solution for yesterday SyntaxError
 
