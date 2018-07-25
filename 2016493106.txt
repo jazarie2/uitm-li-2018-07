@@ -1,3 +1,13 @@
+2018-07-25
+report 12.00pm
+
+found out that my python 2.7.8 cannot connect to opencv, uninstall python 2.7.8 and install python 2.7.5, numpy and latest opencv : 
+
+1) opencv-python-tutroals.readthedocs.io
+2) sourceforge.net
+
+
+
 2018-07-23
 report 5.30pm
 
