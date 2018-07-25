@@ -1,4 +1,15 @@
 2018-07-25
+report 5.30pm
+
+having problem to connect python, opencv and pycharm.
+
+having problem with my laptop for a while, lagging so bad.
+
+cannot found python that already installed in cmd
+
+try to import cv2,numpy, but failed
+
+2018-07-25
 report 12.00pm
 
 found out that my python 2.7.8 cannot connect to opencv, uninstall python 2.7.8 and install python 2.7.5, numpy and latest opencv : 
