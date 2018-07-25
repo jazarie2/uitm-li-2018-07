@@ -1,3 +1,11 @@
+Date: 25/7/2018
+Time: 12:00
+1.Trying and understanding the tutorial for mqtt via python
+ url: 1. http://www.steves-internet-guide.com/category/mqtt/
+      2. http://www.steves-internet-guide.com/python-mqtt-publish-subscribe/
+      3. https://github.com/eclipse/paho.mqtt.python/tree/master/examples
+
+
 Date: 24/7/2018
 Time: 5:30
 1. Learn to use the pycharm and rying some tutorials.
