@@ -1,5 +1,14 @@
 2018-07-25
 
+-report 5.30 p.m
+
+helping Sir Adi Izhar build up his robot
+
+cakephp fail to connect to database:
+CakePHP is NOT able to connect to the database.
+"Connection to database could not be established: SQLSTATE[HY000] 
+[1044] Access denied for user ''@'localhost' to database 'cake_cms'"
+
 -report 12.00 p.m
 
 learning cakePHP:
