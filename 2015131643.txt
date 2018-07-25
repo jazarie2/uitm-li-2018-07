@@ -1,4 +1,10 @@
 Date: 25/7/2018
+Time: 5:30
+1. Still trying to understand the tutorial for python,pycharm and mqtt.
+2. Learn a little about paint.net for the logo.
+ url: 1. https://www.youtube.com/watch?v=my7T6bKA2Uc
+
+Date: 25/7/2018
 Time: 12:00
 1.Trying and understanding the tutorial for mqtt via python
  url: 1. http://www.steves-internet-guide.com/category/mqtt/
