@@ -1,4 +1,14 @@
 2018-07-26
+report 5.30pm
+
+delete the 'break' in the code and replace with sys.exit () based on the help from internet. 
+1)https://stackoverflow.com/questions/2462566/python-break-outside-loop
+
+suddenly the output have a new error, which is the numpy was not detected in the python. i try solve the problem but still did not found the solution.
+
+try to install numpy in the cmd just like i did when i install python 3.6 but i still failed to fixed it.
+
+2018-07-26
 report 12.00pm
 
 connect pyrhon, pycharm and opencv, follow the guide from the internet : 
