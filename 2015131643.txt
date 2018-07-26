@@ -1,4 +1,11 @@
 Date: 26/7/2018
+Time: 5:30
+1. Still cannot fully understand the tutorial, decided to learn the basic for python language.
+ url: 1. https://www.youtube.com/watch?v=TqPzwenhMj0
+2. Updating the logbook.
+3. Try and error for paint.net.
+
+Date: 26/7/2018
 Time: 12:00
 1. Continue yesterday's work.
  url: 1. https://github.com/eclipse/paho.mqtt.python
