@@ -1,5 +1,9 @@
 2018-07-26
 
+-report 5.30 p.m
+trying to fully understand the tutorial given by cakephp:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+
 -report 12.00 p.m
 fixed yesterday error
 continue learning cakephp:
