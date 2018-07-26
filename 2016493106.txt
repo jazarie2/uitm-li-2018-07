@@ -1,3 +1,11 @@
+2018-07-26
+report 12.00pm
+
+connect pyrhon, pycharm and opencv, follow the guide from the internet : 
+1) https://stackoverflow.com/questions/32660114/how-to-install-opencv-on-windows-and-enable-it-for-pycharm-without-using-the-pac
+
+run the copied coding and receive the output, buat have syntax Error : 'break' outside loop. look for the solutions.
+
 2018-07-25
 report 5.30pm
 
