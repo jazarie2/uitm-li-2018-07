@@ -1,5 +1,10 @@
 2018-07-26
 
+report 5.30pm
+Replace 'break' in the code with 'sys.exit ()' based on the help from internet. 
+1)https://stackoverflow.com/questions/2462566/python-break-outside-loop
+But, error is still occur
+
 report 12.00pm
 Another error in the geeksforgeeks coding that is "No module named cv2"
 Trying to search for the solution for the problem:
