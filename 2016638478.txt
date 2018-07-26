@@ -1,3 +1,10 @@
+2018-07-26
+
+report 12.00pm
+Another error in the geeksforgeeks coding that is "No module named cv2"
+Trying to search for the solution for the problem:
+1)https://stackoverflow.com/questions/19876079/opencv-cannot-find-module-cv2
+
 2018-07-25
 
 report 5.30pm
