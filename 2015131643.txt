@@ -1,3 +1,12 @@
+Date: 26/7/2018
+Time: 12:00
+1. Continue yesterday's work.
+ url: 1. https://github.com/eclipse/paho.mqtt.python
+      2. https://iotbytes.wordpress.com/paho-mqtt-with-python/
+2. Learning paint.net tutorial for the logo.
+3. Trying to find way to link github with mit app inventor.
+
+
 Date: 25/7/2018
 Time: 5:30
 1. Still trying to understand the tutorial for python,pycharm and mqtt.
