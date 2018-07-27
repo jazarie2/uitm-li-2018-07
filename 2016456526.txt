@@ -1,5 +1,12 @@
 2018-07-27
 
+-report 5.30 p.m
+re-learn the basic of php:
+https://www.youtube.com/watch?v=7TF00hJI78Y&t=1218s
+completed the cakephp framework tutorial but still got
+alot to read:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+
 -report 12.00 p.m
 continue learning cakephp:
 https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
