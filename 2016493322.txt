@@ -1,3 +1,10 @@
+27-07-2018
+12:00pm
+1. study RWD gridview on how it works with <style>[class=col-12]</style>, https://www.w3schools.com/css/css_rwd_grid.asp
+2. study tag ".row:after{content:"	"; clear:both; display:table;}
+	-its function either necessary/crucial or not
+
+
 26-07-2018
 12:00pm
 1. study mobile friendly site https://www.atomic74.com/click/responsive-vs-mobile-friendly-websites-whats-the-difference
@@ -6,6 +13,10 @@
 2. study responsive web design (RWD) https://www.w3schools.com/css/css_rwd_viewport.asp
 	-actually bootstrap tutorial studied before related to RWD
 	-in order to understand bootstrap tutorial thoroughly, better to start with RWD first
+
+5:30pm
+1. study RWD
+	-css and html design for responsive design
 
 25-07-2018
 12:00pm
