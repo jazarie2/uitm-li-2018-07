@@ -1,3 +1,11 @@
+Date: 27/7/2018
+Time: 12:00
+1. Updating logbook.
+2. Continue to learn python language.
+3. Trying one mqtt based python example.
+ url: 1. http://www.steves-internet-guide.com/into-mqtt-python-client/
+
+
 Date: 26/7/2018
 Time: 5:30
 1. Still cannot fully understand the tutorial, decided to learn the basic for python language.
