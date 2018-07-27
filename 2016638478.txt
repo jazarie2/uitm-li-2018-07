@@ -1,5 +1,9 @@
 2018-07-27
 
+report 5.30pm
+try to import numpy again into pycharm:
+1)https://stackoverflow.com/questions/35623776/import-numpy-on-pycharm
+
 report 12.00pm
 Still trying to find solutions for yesterday problem
  
