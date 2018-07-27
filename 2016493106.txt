@@ -1,4 +1,16 @@
 2018-07-27
+report 5.30pm
+
+try to solve the problem based on the internet : 
+1) https://stackoverflow.com/questions/20518632/importerror-numpy-core-multiarray-failed-to-import
+
+install python 2.7.13 : 
+1) python.org
+
+uninstall python 2.7.10. try to install the numpy, but the error comes out, 'python 2.7 not found'.
+
+
+2018-07-27
 report 12.00pm
 
 find out that my numpy was not suitable for the python.download and install numpy 1.5.1.
