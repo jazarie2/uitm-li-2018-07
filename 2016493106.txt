@@ -1,3 +1,10 @@
+2018-07-27
+report 12.00pm
+
+find out that my numpy was not suitable for the python.download and install numpy 1.5.1.
+1)https://sourceforge.net/projects/numpy/?source=typ_redirect
+
+
 2018-07-26
 report 5.30pm
 
