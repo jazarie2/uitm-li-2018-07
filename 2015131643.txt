@@ -1,4 +1,12 @@
 Date: 27/7/2018
+Time: 5:30
+1. Understanding MQTT based python language.
+ url: 1. http://www.steves-internet-guide.com/into-mqtt-python-client/
+2. Understanding how to publish and subscribe of mqtt with python language.
+ url: 1. https://www.youtube.com/watch?v=eY8umQOhClE
+
+
+Date: 27/7/2018
 Time: 12:00
 1. Updating logbook.
 2. Continue to learn python language.
