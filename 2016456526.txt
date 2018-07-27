@@ -1,3 +1,9 @@
+2018-07-27
+
+-report 12.00 p.m
+continue learning cakephp:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+
 2018-07-26
 
 -report 5.30 p.m
