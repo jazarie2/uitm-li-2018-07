@@ -1,3 +1,13 @@
+2018-07-28
+report 12.00pm
+
+present our progress for week 2, show our problems with python, opencv, numpy.
+
+En. Aziz solve the problems.
+
+receive task for next week
+
+
 2018-07-27
 report 5.30pm
 
