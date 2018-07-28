@@ -1,3 +1,12 @@
+2018-07-28
+
+Report 12.00PM
+Review week 2 progress
+
+Get a consult from Encik Aziz about how to install packages numpy and pip successfully
+
+Received new task for week 3
+
 2018-07-27
 
 report 5.30pm
@@ -15,7 +24,7 @@ Replace 'break' in the code with 'sys.exit ()' based on the help from internet.
 But, error is still occur
 
 report 12.00pm
-Another error in the geeksforgeeks coding that is "No module named cv2"
+Another error in th\e geeksforgeeks coding that is "No module named cv2"
 Trying to search for the solution for the problem:
 1)https://stackoverflow.com/questions/19876079/opencv-cannot-find-module-cv2
 
@@ -109,4 +118,12 @@ Bookmarked some url from the internet about open cv project
 
 Searched for offline video from youtube 
 1)www.youtube.com
+
+2018-07-16
+
+Report 12.00PM
+Get a briefing about the project from the supervisor, Encik Aziz
+
+Report 5.30PM
+Received the first task of the project
 
