@@ -1,0 +1,20 @@
+28/7/2018
+All:
+1. please update you current git working directory in the report
+2. Use the git to store the code. (For python, use Pycharm to push is easier)
+> https://github.com/jazarie2/EDS-UiTM-synthetic-sensors
+>> Push code here. (Use Pycharm to push is easier)
+
+> https://github.com/jazarie2/EDS-UiTM-LIReport-python-MQTT
+>> Push experimental code to this location.
+
+> https://github.com/jazarie2/EDS-UiTM-LIReport-MobileApp
+>> Push previous gode to this git.
+
+> https://github.com/jazarie2/EDS-UiTM-IdeaBox
+>> Design the logo for IdeaBox.
+>> Create Storyboard for the following
+>>> Register, Login, Reset Password
+>>> Create Idea, Edit Idea, Delete Idea, Comment Idea (Own), Critics Idea (Others)
+>> Desgin Databse based on story board.
+
