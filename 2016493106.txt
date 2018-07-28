@@ -38,6 +38,8 @@ run the copied coding and receive the output, buat have syntax Error : 'break' o
 2018-07-25
 report 5.30pm
 
+helping Sir Adi essemble a robot with Hafizuddin
+
 having problem to connect python, opencv and pycharm.
 
 having problem with my laptop for a while, lagging so bad.
