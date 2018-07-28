@@ -1,3 +1,12 @@
+28-07-2018
+12pm
+1. meeting with En. Aziz
+	-can setup template layout first without its web function
+	-study good enough just to proceed with coding
+	-focusing on story board (register, login, reset password)
+	-prioritize bootstrap, then getskeleton
+2. install chrome extension mobile view
+
 27-07-2018
 12:00pm
 1. study RWD gridview on how it works with <style>[class=col-12]</style>, https://www.w3schools.com/css/css_rwd_grid.asp
