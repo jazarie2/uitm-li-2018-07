@@ -1,3 +1,11 @@
+2018-07-30
+
+Report 5.30PM
+Trying to push the geeksforgeeks to github from pycharm
+1)https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html
+
+An error 'git cannot run' occur, trying to find the solutions
+
 2018-07-28
 
 Report 12.00PM
