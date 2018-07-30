@@ -1,3 +1,8 @@
+30-07-2018
+5:30pm
+1. study <meta> tag and how html language work with '.css' extension
+2. copy layout and link with html coding (uploaded the layout)
+
 28-07-2018
 12pm
 1. meeting with En. Aziz
