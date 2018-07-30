@@ -1,3 +1,18 @@
+2018-07-30
+report 5.30pm
+
+read the todo from github.
+
+try to push the coding to github using pycharm.
+
+have some error. 'github.exe not found'.
+
+try to solve but i cannot find any.
+ 
+ask En. Aziz, ask for help. 
+
+ 
+
 2018-07-28
 report 12.00pm
 
