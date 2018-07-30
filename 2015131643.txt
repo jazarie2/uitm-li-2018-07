@@ -1,3 +1,13 @@
+Date: 30/7/2018
+Time: 5:30
+1. Trying to connect the python code to a test cloud.
+ url: 1. https://techtutorialsx.com/2017/04/14/python-publishing-messages-to-mqtt-topic/
+      2. https://www.cloudmqtt.com/
+      3. https://api.cloudmqtt.com/console/9877910/details
+2. Review how to publish and subscribe mqtt via python
+ url: 1. http://www.steves-internet-guide.com/into-mqtt-python-client/
+
+
 Date: 28/7/2018
 Time: 12:00
 1. Weekly review by supervisor.
@@ -12,7 +22,6 @@ Time: 5:30
  url: 1. http://www.steves-internet-guide.com/into-mqtt-python-client/
 2. Understanding how to publish and subscribe of mqtt with python language.
  url: 1. https://www.youtube.com/watch?v=eY8umQOhClE
-
 
 Date: 27/7/2018
 Time: 12:00
