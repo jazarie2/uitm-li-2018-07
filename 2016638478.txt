@@ -1,5 +1,12 @@
 2018-07-31
 
+Report 5.30PM
+Found the solution by changing the path to git executable.
+1)https://www.youtube.com/watch?v=gra_8PmF598
+
+Done share the code to github
+2)https://github.com/haikal98100/geeksforgeekscode
+
 Report 12.00PM
 Still trying to find solutions for yesterday problem
 
