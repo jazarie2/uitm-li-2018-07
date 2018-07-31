@@ -1,3 +1,11 @@
+Date: 31/7/2018
+Time: 12:00
+1. Test to create one-way path with a test server called MQTTCloud.
+ url: 1. https://techtutorialsx.com/2017/04/14/python-publishing-messages-to-mqtt-topic/
+      2. https://api.cloudmqtt.com/console/9877910/websocket
+2. Trying to make a two-way path between the test server and pycharm.
+
+
 Date: 30/7/2018
 Time: 5:30
 1. Trying to connect the python code to a test cloud.
