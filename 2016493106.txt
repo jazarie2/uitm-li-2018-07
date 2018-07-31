@@ -1,4 +1,13 @@
 2018-07-31
+report 5.30pm
+
+no connection with the internet for few moments, then continue to solve the problem we have. Tried some method to connect github and pycharm. we did it on Haikal laptop.:
+1) 1)https://www.youtube.com/watch?v=gra_8PmF598
+
+search some method to resolve the error in the coding. 
+1)https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor
+
+2018-07-31
 report 12.00pm
 
 try to open github in pycharm, but failed. cannot connect github and pycharm.
