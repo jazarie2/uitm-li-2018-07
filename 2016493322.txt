@@ -2,6 +2,9 @@
 12pm
 1. rewrite the layout default design
 
+5:30pm
+1. continue writing the layout design but combining with mobile design
+
 30-07-2018
 5:30pm
 1. study <meta> tag and how html language work with '.css' extension
