@@ -1,3 +1,11 @@
+Date:31/7/2018
+Time: 5:30
+1. Continue to search a way to develop a two way path between pycharm and the test server.
+ url: 1. https://iot-playground.com/blog/2-uncategorised/76-easyiot-cloud-mqtt-api
+      2. https://www.raviyp.com/embedded/224-mqtt-protocol-tutorial-using-mosquitto-and-cloudmqtt
+      3. https://forum.athom.com/discussion/2810/use-cloudmqtt-as-a-broker-for-owntracks-or-mqtt-app
+      4. https://www.youtube.com/watch?v=Oh3ZYAQBTko&feature=youtu.be
+
 Date: 31/7/2018
 Time: 12:00
 1. Test to create one-way path with a test server called MQTTCloud.
