@@ -1,3 +1,7 @@
+31-07-2018
+12pm
+1. rewrite the layout default design
+
 30-07-2018
 5:30pm
 1. study <meta> tag and how html language work with '.css' extension
