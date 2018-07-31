@@ -1,3 +1,12 @@
+2018-07-31
+report 12.00pm
+
+try to open github in pycharm, but failed. cannot connect github and pycharm.
+
+run the coding and receive an error output. "cv2.error: C:\build\2_4_winpack-bindings-win64-vc14-static\opencv\modules\imgproc\src\color.cpp:3783: error: (-215) scn == 3 || scn == 4 in function cv::cvtColor"
+
+
+
 2018-07-30
 report 5.30pm
 
