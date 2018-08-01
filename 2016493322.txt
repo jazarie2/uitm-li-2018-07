@@ -1,3 +1,6 @@
+01-08-2018
+1. combining mobile friendly layout with default design
+
 31-07-2018
 12pm
 1. rewrite the layout default design
