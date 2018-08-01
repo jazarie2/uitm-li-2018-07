@@ -1,3 +1,11 @@
+2018-08-1
+report 12.00pm
+
+continue to search the solutions of the error. read some comments and answer in that url:
+1)https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor
+
+read some comments and answer in that url
+
 2018-07-31
 report 5.30pm
 
