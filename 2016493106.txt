@@ -1,4 +1,13 @@
 2018-08-1
+report 5.30pm
+
+my 'import cv2' not found, i fixed that already.
+
+look for some information to solve the erro "cv2.error: C:\build\2_4_winpack-bindings-win64-vc14-static\opencv\modules\imgproc\src\color.cpp:3783: error: (-215) scn == 3 || scn == 4 in function cv::cvtColor"
+try some method from internet, but i realise that, most of it for image not video. : 
+1)https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor
+
+2018-08-1
 report 12.00pm
 
 continue to search the solutions of the error. read some comments and answer in that url:
