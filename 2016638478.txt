@@ -1,5 +1,11 @@
 2018-08-01
 
+Report 5.30PM
+The problem occurs because the coding is having problem when playing video from file
+
+Searching for the solutions to display the frame in the video succesfully
+1)http://answers.opencv.org/question/175328/opencv-error-assertion-failed-scn-3-scn-4-in-cvtcolor/
+
 Report 12.00PM
 Trying to rerun the geeksforgeeks code and found an error in line 17
 
