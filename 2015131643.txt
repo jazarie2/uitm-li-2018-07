@@ -1,4 +1,13 @@
 Date: 1/8/2018
+Time: 5:30
+1. Manage to publish message from single publisher to multiple subscriber via same topic.
+2. Trying to find a way to publish to multiple subscriber from single publisher via multiple topics.
+ url: 1. https://wiki.python.org/moin/ForLoop
+      2. https://stackoverflow.com/questions/41624697/mqtt-python-subscribe-to-multiple-topics-and-write-payloads-on-raspberry-lcd
+      3. http://www.steves-internet-guide.com/subscribing-topics-mqtt-client/
+      4. https://www.w3schools.com/python/python_for_loops.asp
+
+Date: 1/8/2018
 Time: 12:00
 1. Succesfully came up with a publish and subscribe system using the test server.
  url: 1. https://www.youtube.com/watch?v=4vU2iZWdNTg
