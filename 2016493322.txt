@@ -1,5 +1,9 @@
 01-08-2018
+12pm
 1. combining mobile friendly layout with default design
+
+5:30pm
+1. upload both file of html and css
 
 31-07-2018
 12pm
