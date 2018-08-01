@@ -1,3 +1,13 @@
+2018-08-01
+
+Report 12.00PM
+Trying to rerun the geeksforgeeks code and found an error in line 17
+
+Searching for its solutions in some websites
+1)https://www.pyimagesearch.com/2016/12/26/opencv-resolving-nonetype-errors/
+2)https://docs.opencv.org/3.4.0/dd/d43/tutorial_py_video_display.html
+3)https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor
+
 2018-07-31
 
 Report 5.30PM
