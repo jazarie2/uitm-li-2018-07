@@ -1,5 +1,9 @@
 2018-07-31
 
+-report 5.30 p.m
+learnig Finding Articles By Tags in cakephp:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf 
+
 -report 12.00 p.m
 continue doing the cakePHP Tag and Users for CMS tutorial:
 https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf 
