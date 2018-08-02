@@ -2,6 +2,9 @@
 12pm
 1. wrote home.html layout
 
+5:30pm
+1. finalize layout for default (linked with 2 html files)
+
 01-08-2018
 12pm
 1. combining mobile friendly layout with default design
