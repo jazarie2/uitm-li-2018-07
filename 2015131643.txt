@@ -1,4 +1,11 @@
 Date:2/8/2018
+Time: 5:30
+1. Manage to resolve problem how to publish from single user tu multi subscriber with multi topics but with some error.
+   Error: message from topic 1 will be sent to subscriber 2 and message from topic 2 will be sent to subscriber 1.
+   Action taken: resolve the error by tweaking the coding for the topic for each subscriber.
+2. Finding a way to know the publisher ID.
+
+Date:2/8/2018
 Time: 12:00
 1. Still trying to resolve yesterday's problem-to publish multiple topic from single publisher.
 2. Trying with mobile app but could not connect with the test server.

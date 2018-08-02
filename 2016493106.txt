@@ -1,4 +1,9 @@
 2018-08-2
+report 5.30pm
+
+still in the same error. still searching for solutions for the error. tried some method, still have the same error. 
+
+
 report 12.00pm
 
 tried added up 'img = cv2.VideoCapture('C:\opencv\opencv\video.avi')' on line 16, but the error still same. 
