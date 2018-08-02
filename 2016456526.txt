@@ -1,3 +1,10 @@
+20181-08-02
+
+-report 12.30 p.m
+Finished the cakephp CMS tutorial and its working well but there are one big error, the user 
+registered cannot log in. Still trying to fix the error:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+
 2018-08-01
 
 -report 5.30 p.m
