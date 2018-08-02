@@ -1,3 +1,13 @@
+2018-08-02
+
+Report 12.00PM
+Still searching for the solutions for yesterday problem but, the same error is still occcur
+
+Download camstudio to record the output of the coding and send it to Encik Aziz.
+
+Download cars.xml to insert in the geeksforgeeks code
+1)https://gist.github.com/199995/37e1e0af2bf8965e8058a9dfa3285bc6
+
 2018-08-01
 
 Report 5.30PM

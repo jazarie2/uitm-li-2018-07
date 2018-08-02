@@ -1,3 +1,9 @@
+Date:2/8/2018
+Time: 12:00
+1. Still trying to resolve yesterday's problem-to publish multiple topic from single publisher.
+2. Trying with mobile app but could not connect with the test server.
+
+
 Date: 1/8/2018
 Time: 5:30
 1. Manage to publish message from single publisher to multiple subscriber via same topic.
