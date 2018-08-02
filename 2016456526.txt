@@ -1,4 +1,8 @@
-20181-08-02
+2018-08-02
+
+-report 5.30 p.m
+Doing the blog cakephp tutorial:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
 
 -report 12.30 p.m
 Finished the cakephp CMS tutorial and its working well but there are one big error, the user 
