@@ -1,4 +1,11 @@
 Date: 3/8/2018
+Time: 5:30
+1. Continue morning session work.
+ url: 1. https://cloud.google.com/iot/docs/how-tos/mqtt-bridge
+      2. https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe
+2. Updating the logbook.
+
+Date: 3/8/2018
 Time: 12:00
 1. Still trying to find a way to identify the publisher id.
  url: 1. https://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment
