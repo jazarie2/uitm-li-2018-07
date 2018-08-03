@@ -1,3 +1,10 @@
+Date: 3/8/2018
+Time: 12:00
+1. Still trying to find a way to identify the publisher id.
+ url: 1. https://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment
+      2. https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe
+
+
 Date:2/8/2018
 Time: 5:30
 1. Manage to resolve problem how to publish from single user tu multi subscriber with multi topics but with some error.
