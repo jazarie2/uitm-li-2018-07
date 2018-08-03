@@ -1,5 +1,9 @@
 2018-08-03
 
+Report 5.30PM
+Study more about converting an image to gray scale
+1)https://techtutorialsx.com/2018/06/02/python-opencv-converting-an-image-to-gray-scale/
+
 Report 12.00PM
 Study more about grayscale and how it works with Python and OpenCV.
 1)https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
