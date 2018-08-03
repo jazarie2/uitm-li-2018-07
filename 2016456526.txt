@@ -1,3 +1,7 @@
+2018-08-03
+
+Doing the blog cakephp tutorial:
+
 2018-08-02
 
 -report 5.30 p.m
