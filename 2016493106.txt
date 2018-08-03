@@ -1,4 +1,10 @@
 2018-08-3
+report 5.30pm
+
+1- still stuck at the same problem.
+2- realise that line 7 and 28 labelled as unexpected arguments
+3-try some change in coding, but nothing happened, still have the same error.
+ 
 report 12.00pm
 
 1-updated pycharm.
