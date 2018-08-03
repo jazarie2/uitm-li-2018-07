@@ -1,3 +1,9 @@
+2018-08-03
+
+Report 12.00PM
+Study more about grayscale and how it works with Python and OpenCV.
+1)https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
+
 2018-08-02
 
 Report 5.30PM
@@ -8,7 +14,7 @@ Refer to another websites to fix this error
 Report 12.00PM
 Still searching for the solutions for yesterday problem but, the same error is still occcur
 
-Download camstudio to record the output of the coding and send it to Encik Aziz.
+Download camstudio to record the output of the coding. Hence, send the output video to Encik Aziz.
 
 Download cars.xml to insert in the geeksforgeeks code
 1)https://gist.github.com/199995/37e1e0af2bf8965e8058a9dfa3285bc6
