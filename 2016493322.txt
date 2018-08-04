@@ -2,6 +2,11 @@
 12pm
 1. tidy up web layout
 
+5:30pm
+1. study java for pop up web design
+2. story board layout
+	-from home layout to login/signup to logged in layout
+
 02-08-2018
 12pm
 1. wrote home.html layout

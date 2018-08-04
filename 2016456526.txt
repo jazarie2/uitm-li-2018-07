@@ -1,6 +1,12 @@
 2018-08-03
 
+-report 5.30 p.m
+There some error while trying to use the migration plugin in blog tutorial, will try to solve the
+error tommorow.
+
+-report 12.00 p.m
 Doing the blog cakephp tutorial:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
 
 2018-08-02
 
