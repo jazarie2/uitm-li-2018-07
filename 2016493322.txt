@@ -1,3 +1,10 @@
+04-08-2018
+12pm
+1. meeting up with En Aziz
+	-design layout from cakephp
+	-learn alertify js
+	-connect database from 'back-end squad'
+
 03-08-2018
 12pm
 1. tidy up web layout
