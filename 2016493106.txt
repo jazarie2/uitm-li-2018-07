@@ -1,4 +1,14 @@
-201808-6
+2018-08-6
+report 5.30pm
+
+have some error when register, 
+1)https://portal.aws.amazon.com/billing/signup?type=resubscribe#/identityverification
+
+tried so many times, but still same. make an issue about my problem in the support center. : 
+1)console.aws.amazon.com
+
+
+
 report 12.00pm
 
 stay at the library because lab was locked. the internet connection here were poor. 
