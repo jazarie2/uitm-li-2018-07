@@ -1,3 +1,8 @@
+2018-08-06
+
+-report 5.30 p.m
+Trying to fix the login issue in ideabox.
+
 2018-08-04
 
 -report 12.00 p.m
