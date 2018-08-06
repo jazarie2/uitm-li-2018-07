@@ -1,4 +1,10 @@
 Date: 6/8/2018
+Time: 5:30
+1. Continue morning session work.
+2. Trying using mobile app to solve the problem.
+3. Since internet keep disconnecting, playing with the logo design.
+
+Date: 6/8/2018
 Time: 12:00
 1. Still trying to change the coding so that the subscriber can identify which publisher that sent the message.
  Error: It won't display the client id "('Sent from:', <paho.mqtt.client.Client object at 0x0000000002C70EB8>)".
