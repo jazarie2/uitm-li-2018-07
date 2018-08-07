@@ -5,6 +5,12 @@
 	- https://www.youtube.com/watch?v=ge3X0BOluwU (CakePHP Theming - Template Design - 05 - Login and Register Buttons)
 2. setting up vpn but then met error of microsoft.com didnt work (connection became no internet access)
 
+5:3pm
+1. setting error for wifi connection
+	- connection reset
+2. study 	- https://www.youtube.com/watch?v=V0lHMJVoF3E (CakePHP Tutorial - Part 3 - Layout)
+3. follow the tutorial, yet to finish
+
 06-08-2018
 5:30pm
 1. try to design the layout, but nothing change
