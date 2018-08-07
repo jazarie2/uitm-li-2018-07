@@ -1,3 +1,9 @@
+Date: 7/8/2018
+Time: 12:00
+1. Succesfully declare the publisher id to subscriber.
+2. Receive review from supervisor and receive new task which is try to publish from web application to python subscriber.
+
+
 Date: 6/8/2018
 Time: 5:30
 1. Continue morning session work.
