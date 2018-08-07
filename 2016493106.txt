@@ -1,4 +1,10 @@
 2018-08-7
+report 5.30pm
+
+-download ppk file from En. Aziz-open mobaxterm and try to connect after configuring using username ubuntu, ppk file and given link.
+-having problem to connect mobaxterm.
+
+
 report 12.00pm
 
 -solve the registration problem, 24 hours to verify account.
