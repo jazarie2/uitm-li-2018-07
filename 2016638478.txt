@@ -1,5 +1,11 @@
 2018-08-07
 
+Report 5.30PM
+Connecting with MobaXTerm by using private key (ppk file)
+1)https://docs.computecanada.ca/wiki/Connecting_with_MobaXTerm
+
+Inserting remote host and username into basic SSH settings
+
 Report 12.00PM
 Launching instance and choose ubuntu server 16.04
 Downloading pem file when creating new key pair for AWS
