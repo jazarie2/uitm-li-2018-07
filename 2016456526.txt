@@ -1,3 +1,9 @@
+2018-08-07
+
+-report 12.00 p.m
+learning Authentication in cakePHP while trying to fix the ideabox's login issue:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf (232-248)
+
 2018-08-06
 
 -report 5.30 p.m
