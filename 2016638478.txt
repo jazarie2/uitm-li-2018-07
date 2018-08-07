@@ -1,3 +1,13 @@
+2018-08-07
+
+Report 12.00PM
+Launching instance and choose ubuntu server 16.04
+Downloading pem file when creating new key pair for AWS
+1)https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#Instances:
+
+Download MobaXterm
+1)https://mobaxterm.mobatek.net/download.html
+
 2018-08-06
 
 Report 5.30PM
