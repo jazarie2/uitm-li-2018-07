@@ -1,5 +1,11 @@
 2018-08-07
 
+-report 5.630 p.m
+continue doing blog tutorial by cakephp:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+Helping En. Asri with his new google form:
+https://docs.google.com/forms/d/e/1FAIpQLSfSt38cS3Lq7QFfpFKuld-ti3ZEZXI_q-JxQHPiLpoZDj6WZg/viewform?usp=sf_link
+
 -report 12.00 p.m
 learning Authentication in cakePHP while trying to fix the ideabox's login issue:
 https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf (232-248)
