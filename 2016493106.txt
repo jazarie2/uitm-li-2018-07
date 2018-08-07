@@ -1,3 +1,10 @@
+2018-08-7
+report 12.00pm
+
+-solve the registration problem, 24 hours to verify account.
+-download and install mobaxterm : 
+1) https://mobaxterm.mobatek.net/download-home-edition.html 
+
 2018-08-6
 report 5.30pm
 
