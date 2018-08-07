@@ -1,4 +1,11 @@
 Date: 7/8/2018
+Time: 5:30
+1. Trying to learn how to integrate the coding into mit app inventor to publish the message.
+ url: 1. https://developer.zebra.com/docs/DOC-2315
+      2. https://internetofhomethings.com/homethings/?p=1401
+      3. https://github.com/internetofhomethings/Configurable-Web-Server/tree/master/AppInventor_CfgMQTT_rev1 
+
+Date: 7/8/2018
 Time: 12:00
 1. Succesfully declare the publisher id to subscriber.
 2. Receive review from supervisor and receive new task which is try to publish from web application to python subscriber.
