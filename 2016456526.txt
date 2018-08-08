@@ -1,6 +1,14 @@
+2018-08-08
+
+-report 12.00 p.m
+doing bookmarker tutorial by cakePHP:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+Update and do some correction in En. Asri's google form:
+https://docs.google.com/forms/d/e/1FAIpQLSfSt38cS3Lq7QFfpFKuld-ti3ZEZXI_q-JxQHPiLpoZDj6WZg/viewform?usp=sf_link
+
 2018-08-07
 
--report 5.630 p.m
+-report 5.30 p.m
 continue doing blog tutorial by cakephp:
 https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
 Helping En. Asri with his new google form:
