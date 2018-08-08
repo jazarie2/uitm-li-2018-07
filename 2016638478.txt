@@ -1,5 +1,8 @@
 2018-08-08
 
+Report 5.30PM
+Trying to run the code in the MobaXTerm. Nothing error was occur but, the output video from the code did not open and play.
+
 Report 12.00PM
 Trying to connect with MobaXTerm once again but error still occured.
 The error : Unable to open connection to htttp. Host does not exist
