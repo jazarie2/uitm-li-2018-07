@@ -1,5 +1,9 @@
 2018-08-08
 
+-report 5.30 p.m
+Finished the bookmark tutorial by cakePHP:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+
 -report 12.00 p.m
 doing bookmarker tutorial by cakePHP:
 https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
