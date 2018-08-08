@@ -2,6 +2,12 @@
 12pm
 1. try n error writing ctp. template layout code
 
+5:30pm
+1. solved issue why articles cakephp wont load at browser
+	- folder vendor was missing
+2. try to edit (change it background color) the view on http://localhost:1234/ideabox/articles from
+D:\xampp\htdocs\ideabox\webroot\css but no change
+
 07-08-2018
 12pm
 1. study
