@@ -1,3 +1,11 @@
+2018-08-8
+report 12.00pm
+
+-search soome solutions to fixed mobaxterm error, i read some comments in :
+1)https://stackoverflow.com/questions/30545804/putty-error-unable-to-open-connection-to-hostname-host-does-not-exist
+
+- i tried run the sessions without https infront of remote host, the program has no error but still running.....
+
 2018-08-7
 report 5.30pm
 
