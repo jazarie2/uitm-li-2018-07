@@ -1,4 +1,9 @@
 Date: 8/8/2018
+Time: 5:30
+1. Create a single screen app for testing to connect to broker.
+2. Still finding a way to write the coding for the mit app inventor.
+
+Date: 8/8/2018
 Time: 12:00
 1. Continue yesterday's work. Learn to publish to mqtt server from mit app inventor.
  url: 1. https://internetofhomethings.com/homethings/?p=1317
