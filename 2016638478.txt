@@ -1,3 +1,9 @@
+2018-08-08
+
+Report 12.00PM
+Trying to connect with MobaXTerm once again but error still occured.
+The error : Unable to open connection to htttp. Host does not exist
+
 2018-08-07
 
 Report 5.30PM
