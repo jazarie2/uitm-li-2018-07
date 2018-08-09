@@ -1,4 +1,10 @@
 Date: 9/8/2018
+Time: 5:30
+1. Trying using existing mobile application to publish but the application would not connect to the server.
+2. Search through internet to try solve the problem.
+3. Trying to make the logo.
+
+Date: 9/8/2018
 Time: 12:00
 1. Still continue yesterday's work.
  url: 1. https://internetofhomethings.com/homethings/?p=1317
