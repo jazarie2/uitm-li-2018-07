@@ -5,6 +5,11 @@
 	- 'default.ctp' file from D:\xampp\htdocs\ideabox\src\Template\Layout
 2. did 'inspect' and 'view page source' to see the code but didnt found related code from D:\xampp\htdocs\ideabox\ files
 
+5:30pm
+1. study template and view folder from D:\xampp\htdocs\ideabox\src
+	- https://book.cakephp.org/3.0/en/views.html
+	- https://www.youtube.com/watch?v=T-WXQb1Zdi0 (Developing web application using CakePHP 3.2)
+
 08-08-2018
 12pm
 1. try n error writing ctp. template layout code
