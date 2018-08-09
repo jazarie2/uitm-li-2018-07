@@ -1,3 +1,12 @@
+Date: 9/8/2018
+Time: 12:00
+1. Still continue yesterday's work.
+ url: 1. https://internetofhomethings.com/homethings/?p=1317
+      2. https://groups.google.com/forum/#!topic/ai4a/pL4bHmJKnH0
+      3. https://www.skyfilabs.com/project-ideas/iot-based-real-time-data-acquisition-using-mqtt-protocol
+      4. https://www.youtube.com/watch?v=qZrsU26DO5Q
+
+
 Date: 8/8/2018
 Time: 5:30
 1. Create a single screen app for testing to connect to broker.
