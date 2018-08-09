@@ -1,3 +1,10 @@
+09-08-2018
+12pm
+1. searching for files that should be edited and change the http://localhost:1234/ideabox/articles layout
+	-'view.ctp' file from D:\xampp\htdocs\ideabox\src\Template\Articles
+	- 'default.ctp' file from D:\xampp\htdocs\ideabox\src\Template\Layout
+2. did 'inspect' and 'view page source' to see the code but didnt found related code from D:\xampp\htdocs\ideabox\ files
+
 08-08-2018
 12pm
 1. try n error writing ctp. template layout code
