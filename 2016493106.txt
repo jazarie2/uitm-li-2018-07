@@ -1,3 +1,9 @@
+2018-08-9
+report 12.00pm
+
+tried the coding in mobaxterm, have another error and no output video.
+still looking for solutions.
+
 2018-08-8
 report 5.30pm
 
