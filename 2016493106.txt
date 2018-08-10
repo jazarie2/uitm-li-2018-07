@@ -1,4 +1,13 @@
 2018-08-10
+report 5.30mpm
+
+-reboot the machine in linux, but nothing happened.
+-tried another method, "# /sbin/reboot", "$ sudo reboot" , "# shutdown -r +5".:
+1)https://www.cyberciti.biz/faq/howto-reboot-linux/
+
+-read some information about reboot linux:
+1)https://www.lifewire.com/reboot-linux-using-command-line-4032621
+
 report 12.00pm
 
 -direct the mobaxterm to cd ./hazwan
