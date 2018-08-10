@@ -6,6 +6,10 @@ but not for overall layout
 information thefore
 	- download bookmarked file uploaded by Hafizuddin since login coding wont work
 
+5:30pm
+1. try to edit from D:\xampp\htdocs\ideabox\src\Template\Element but cannot
+	- it contains folder named flash and inside it have 'default.ctp', 'error.ctp', 'success.ctp'
+
 09-08-2018
 12pm
 1. searching for files that should be edited and change the http://localhost:1234/ideabox/articles layout
