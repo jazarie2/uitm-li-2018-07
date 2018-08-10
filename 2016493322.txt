@@ -1,3 +1,11 @@
+10-08-2018
+12pm
+1. try to edit from 'index.ctp' from D:\xampp\htdocs\cakeapp\src\Template\Articles, it worked
+but not for overall layout
+2. try to edit from 'edit.ctp' from D:\xampp\htdocs\cakeapp\src\Template\Articles but cannot since it required login
+information thefore
+	- download bookmarked file uploaded by Hafizuddin since login coding wont work
+
 09-08-2018
 12pm
 1. searching for files that should be edited and change the http://localhost:1234/ideabox/articles layout
