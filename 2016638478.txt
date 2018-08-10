@@ -6,6 +6,9 @@ Successfully run the code and play the output video, but the video was lag.
 Try to reboot the Linux machine using terminal to play the video smoothly, but the video is still lag.
 1)https://superuser.com/questions/995469/reboot-ec2-amazon-linux-redhat-based-from-script
 
+Report 5.30PM
+Review the code and rerun the code. The result is still the same.
+
 2018-08-09
 
 Report 12.00PM
