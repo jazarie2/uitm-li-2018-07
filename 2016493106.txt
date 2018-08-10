@@ -1,3 +1,13 @@
+2018-08-10
+report 12.00pm
+
+-direct the mobaxterm to cd ./hazwan
+-open python main.py
+-receive an output video with rectangle that located at every car.
+-search how to reboot linux:
+1)https://www.cyberciti.biz/faq/howto-reboot-linux/
+
+
 2018-08-9
 report 5.30pm
 

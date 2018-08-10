@@ -1,28 +1,30 @@
-2018-08-09
+2018-08-10
 
-Report 5.30PM
-Try to change soome part of the code in MobaXTerm to execute the result. But still cannot run.
+Report 12.00PM
+Successfully run the code and play the output video, but the video was lag.
+
+Try to reboot the Linux machine using terminal to play the video smoothly, but the video is still lag.
+1)https://superuser.com/questions/995469/reboot-ec2-amazon-linux-redhat-based-from-script
+
+2018-08-09
 
 Report 12.00PM
 Searching for the solutions for yesterday problem on google.com
 1)https://mobaxterm.mobatek.net/documentation.html
 
-2018-08-08
-
 Report 5.30PM
-Trying to run the code in the MobaXTerm. Nothing error was occur but, the output video from the code did not open and play.
+Try to change soome part of the code in MobaXTerm to execute the result. But still cannot run.
+
+2018-08-08
 
 Report 12.00PM
 Trying to connect with MobaXTerm once again but error still occured.
 The error : Unable to open connection to htttp. Host does not exist
 
-2018-08-07
-
 Report 5.30PM
-Connecting with MobaXTerm by using private key (ppk file)
-1)https://docs.computecanada.ca/wiki/Connecting_with_MobaXTerm
+Trying to run the code in the MobaXTerm. Nothing error was occur but, the output video from the code did not open and play.
 
-Inserting remote host and username into basic SSH settings
+2018-08-07
 
 Report 12.00PM
 Launching instance and choose ubuntu server 16.04
@@ -32,15 +34,21 @@ Downloading pem file when creating new key pair for AWS
 Download MobaXterm
 1)https://mobaxterm.mobatek.net/download.html
 
-2018-08-06
-
 Report 5.30PM
-Register an account at AWS Services
-1)https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1
+Connecting with MobaXTerm by using private key (ppk file)
+1)https://docs.computecanada.ca/wiki/Connecting_with_MobaXTerm
+
+Inserting remote host and username into basic SSH settings
+
+2018-08-06
 
 Report 12.00PM
 Surveying for Linux operating system at amazon website
 1)https://www.amazon.com/s/?ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=linux&rh=i%3Aaps%2Ck%3Alinux
+
+Report 5.30PM
+Register an account at AWS Services
+1)https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1
 
 2018-08-04
 
@@ -50,20 +58,15 @@ Get a consult from Encik Aziz for our next task which is to install Linux
 
 2018-08-03
 
-Report 5.30PM
-Study more about converting an image to gray scale
-1)https://techtutorialsx.com/2018/06/02/python-opencv-converting-an-image-to-gray-scale/
-
 Report 12.00PM
 Study more about grayscale and how it works with Python and OpenCV.
 1)https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
 
-2018-08-02
-
 Report 5.30PM
-Refer to another websites to fix this error
-1)http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
-2)https://extr3metech.wordpress.com/2012/09/23/convert-photo-to-grayscale-with-python-opencv/
+Study more about converting an image to gray scale
+1)https://techtutorialsx.com/2018/06/02/python-opencv-converting-an-image-to-gray-scale/
+
+2018-08-02
 
 Report 12.00PM
 Still searching for the solutions for yesterday problem but, the same error is still occcur
@@ -73,13 +76,12 @@ Download camstudio to record the output of the coding. Hence, send the output vi
 Download cars.xml to insert in the geeksforgeeks code
 1)https://gist.github.com/199995/37e1e0af2bf8965e8058a9dfa3285bc6
 
-2018-08-01
-
 Report 5.30PM
-The problem occurs because the coding is having problem when playing video from file
+Refer to another websites to fix this error
+1)http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
+2)https://extr3metech.wordpress.com/2012/09/23/convert-photo-to-grayscale-with-python-opencv/
 
-Searching for the solutions to display the frame in the video succesfully
-1)http://answers.opencv.org/question/175328/opencv-error-assertion-failed-scn-3-scn-4-in-cvtcolor/
+2018-08-01
 
 Report 12.00PM
 Trying to rerun the geeksforgeeks code and found an error in line 17
@@ -89,7 +91,19 @@ Searching for its solutions in some websites
 2)https://docs.opencv.org/3.4.0/dd/d43/tutorial_py_video_display.html
 3)https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor
 
+Report 5.30PM
+The problem occurs because the coding is having problem when playing video from file
+
+Searching for the solutions to display the frame in the video succesfully
+1)http://answers.opencv.org/question/175328/opencv-error-assertion-failed-scn-3-scn-4-in-cvtcolor/
+
 2018-07-31
+
+Report 12.00PM
+Still trying to find solutions for yesterday problem
+
+Downloaded the git.exe
+1)https://git-scm.com/download
 
 Report 5.30PM
 Found the solution by changing the path to git executable.
@@ -97,12 +111,6 @@ Found the solution by changing the path to git executable.
 
 Done share the code to github
 2)https://github.com/haikal98100/geeksforgeekscode
-
-Report 12.00PM
-Still trying to find solutions for yesterday problem
-
-Downloaded the git.exe
-1)https://git-scm.com/download
 
 2018-07-30
 
