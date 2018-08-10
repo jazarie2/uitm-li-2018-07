@@ -1,7 +1,12 @@
 2018-08-10
 
+-report 5.30 p.m
+encounter some problem while doing the migration in blog tutorial by cakePHP:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
+
 -report 12.00 p.m
-continue doing the blog tutorial by cakePHP
+continue doing the blog tutorial by cakePHP:
+https://book.cakephp.org/3.0/_downloads/en/CakePHPCookbook.pdf
 
 2018-08-08
 
