@@ -1,4 +1,10 @@
 2018-08-11
+report 5.30pm
+
+-receive another task from En. Aziz, register Digitalocean, find out how to connect opencv and youtube.
+1)https://cloud.digitalocean.com/welcome?i=699e39
+2)https://stackoverflow.com/questions/37555195/is-it-possible-to-stream-video-from-https-e-g-youtube-into-python-with-ope
+
 report 12.00pm
 
 -tried another video for the coding, from video.avi to video2.avi
@@ -6,7 +12,7 @@ report 12.00pm
 
 
 2018-08-10
-report 5.30mpm
+report 5.30pm
 
 -reboot the machine in linux, but nothing happened.
 -tried another method, "# /sbin/reboot", "$ sudo reboot" , "# shutdown -r +5".:
