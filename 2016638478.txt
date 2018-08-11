@@ -1,3 +1,10 @@
+2018-08-11
+
+Report 12.00PM
+Rerun the code with other video of traffic. The code is run successfully but still lag.
+
+Review the progress of week 4 with Encik Aziz
+
 2018-08-10
 
 Report 12.00PM
