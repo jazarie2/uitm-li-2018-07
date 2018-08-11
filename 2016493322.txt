@@ -1,3 +1,8 @@
+11-08-2018
+12pm
+1. changing database from ideabox to bookmarker and connect database with CakePHP
+2. try n error editing user interface from D:\xampp\htdocs\bookmarker\webroot\css
+
 10-08-2018
 12pm
 1. try to edit from 'index.ctp' from D:\xampp\htdocs\cakeapp\src\Template\Articles, it worked
