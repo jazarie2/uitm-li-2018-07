@@ -1,3 +1,10 @@
+2018-08-11
+report 12.00pm
+
+-tried another video for the coding, from video.avi to video2.avi
+-results went well, i screen shot it and save the output in new file as references.
+
+
 2018-08-10
 report 5.30mpm
 
@@ -37,7 +44,7 @@ the coding runs well but the output does not comes out. still cannot figure it o
 
 report 12.00pm
 
--search soome solutions to fixed mobaxterm error, i read some comments in :
+-search some solutions to fixed mobaxterm error, i read some comments in :
 1)https://stackoverflow.com/questions/30545804/putty-error-unable-to-open-connection-to-hostname-host-does-not-exist
 
 - i tried run the sessions without https infront of remote host, the program has no error but still running.....
@@ -63,8 +70,6 @@ have some error when register,
 
 tried so many times, but still same. make an issue about my problem in the support center. : 
 1)console.aws.amazon.com
-
-
 
 report 12.00pm
 
