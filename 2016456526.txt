@@ -1,3 +1,12 @@
+2018-08-11
+
+-report 5.30 p.m
+weekly meeting with En. Aziz, present him all week progress.
+
+-report 12.00 p.m
+download visual studio
+fix the login issue in ideabox 
+
 2018-08-10
 
 -report 5.30 p.m
