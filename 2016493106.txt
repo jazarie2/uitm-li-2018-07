@@ -1,4 +1,9 @@
 2018-08-13
+report 5.30pm
+
+- receive the exact task from Encik Aziz, find coding to direct video. 
+1)https://stackoverflow.com/questions/48880025/capture-live-video-from-youtube-with-opencv
+
 report 12.00pm
 
 -login to aws, search for rekognition, the region is unsupported, i used asia (singapore) region.
