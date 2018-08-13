@@ -1,3 +1,9 @@
+2018-08-13
+report 12.00pm
+
+-login to aws, search for rekognition, the region is unsupported, i used asia (singapore) region.
+- search some information to connect opencv with youtube.
+
 2018-08-11
 report 5.30pm
 
