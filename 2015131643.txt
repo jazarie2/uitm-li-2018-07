@@ -1,4 +1,9 @@
-Date: 12/8/2018
+Date: 13/8/2018
+Time: 5:30
+1. Continue morning session work.
+2. Trying the example to further understand the example.
+
+Date: 13/8/2018
 Time: 12:00
 1. Understanding the block of the example for the mqtt mit project.
  url: 1. https://internetofhomethings.com/homethings/?p=1358
