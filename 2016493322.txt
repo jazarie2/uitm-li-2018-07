@@ -9,6 +9,11 @@
 
 3. try n error of 'base.css' in D:\xampp\htdocs\bookmarker\webroot\css
 
+5:30pm
+1.	- add "display: inline" inside base.css but nothing happenned
+	- try to add class to .side-nav li to make specific tag
+2. try to rewrite (yet to be done) css file copied from previous editing of FYP 1
+
 11-08-2018
 12pm
 1. changing database from ideabox to bookmarker and connect database with CakePHP
