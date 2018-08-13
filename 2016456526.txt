@@ -1,5 +1,11 @@
 2018-08-13
 
+-report 5.30 p.m
+understanding relational database design:
+http://www.ntu.edu.sg/home/ehchua/programming/sql/relational_database_design.html
+https://en.wikipedia.org/wiki/Database_design
+https://dzone.com/articles/database-design-best-practices
+
 -report 12.00 p.m
 discussing about the layout of the website to do the storyboard
 
