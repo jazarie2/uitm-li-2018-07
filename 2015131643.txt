@@ -1,4 +1,9 @@
 Date: 14/8/2018
+Time: 5:30
+1. Try searching for another example for the app.
+2. Maybe try using monaca.io if still could not get the result.
+
+Date: 14/8/2018
 Time: 12:00
 1. Trying with another example but come out with error.
  error: host url could not be defined
