@@ -4,6 +4,9 @@
 2. can we edit web layout of http://localhost:1234/bookmarker/users/login since we inspected it and it show elements
 style from 'base.css'
 
+5:30pm
+1. completed storyboard
+
 13-08-2018
 12pm
 1. story board discussing
