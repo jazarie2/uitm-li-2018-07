@@ -1,3 +1,12 @@
+2018-08-14
+report 12.00pm
+
+-installed pafy, "pip install pafy"
+-installed youtube_dl
+-tried run the program, with add up "url = 'https://youtu.be/PJ5xXXcfuTc'", "vPafy = pafy.new(url)" , 
+"play = vPafy.getbest(preftype="webm")" , replace video.avi with play.url. 
+- some errors happened
+
 2018-08-13
 report 5.30pm
 
