@@ -1,5 +1,8 @@
 2018-08-14
 
+-report 5.30 p.m
+designing the database based on the requirement but does not complete yet
+
 -report 12.00 p.m
 list the table require in the database
 
