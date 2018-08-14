@@ -3,6 +3,9 @@
 Report 12.00PM
 Crop the suitable clip to be test in the coding
 
+Report 5.30PM
+Find the other clip of traffic because some of clips are not suitable to be test in the coding
+
 2018-08-13
 
 Report 12.00PM
