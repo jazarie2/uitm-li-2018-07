@@ -1,4 +1,9 @@
 2018-08-14
+report 5.30pm
+
+-tried the coding but still error, add up "import pafy" 
+-tried again the codeing, but still have error, " main " not found.  
+
 report 12.00pm
 
 -installed pafy, "pip install pafy"
