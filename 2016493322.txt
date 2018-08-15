@@ -1,6 +1,10 @@
 15-08-2018
 1. try n error implementing template layout from D:\xampp\htdocs\bookmarker\src\Template\Layout
 
+5:30pm
+1. even after try to edit from 'base.css', nothing changed
+2. in progress to stand alone without 'style.css','base.css','home.css'
+
 14-08-2018
 12pm
 1. storyboard sketching
