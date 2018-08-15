@@ -1,3 +1,9 @@
+Date: 15/8/2018
+Time: 12:00
+1. Found something that might help with resolving the problem with mit app inventor but still trying to log in since internet connection is slow and keep disconnecting.
+2. Search for more example to help with the progress.
+
+
 Date: 14/8/2018
 Time: 5:30
 1. Try searching for another example for the app.

@@ -1,3 +1,10 @@
+2018-08-15
+report 12.00p
+
+-read some article from url, how to connect opencv wth youtube.:
+1)https://stackoverflow.com/questions/50876292/opencv-capture-online-video-for-further-processing-without-downloading-the-file
+2)http://funvision.blogspot.com/2017/06/opencv-reading-ip-camera-video-stream.html 
+
 2018-08-14
 report 5.30pm
 
