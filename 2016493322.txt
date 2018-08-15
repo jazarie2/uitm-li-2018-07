@@ -1,3 +1,6 @@
+15-08-2018
+1. try n error implementing template layout from D:\xampp\htdocs\bookmarker\src\Template\Layout
+
 14-08-2018
 12pm
 1. storyboard sketching
