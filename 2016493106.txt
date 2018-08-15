@@ -1,5 +1,14 @@
 2018-08-15
-report 12.00p
+report 5.30pm
+
+-read some comment and suggestion from the internet : 
+1)http://answers.opencv.org/question/24154/how-to-using-opencv-api-get-web-video-stream/#24156
+2)http://answers.opencv.org/question/31859/reading-an-online-video/
+
+-stll have the same error after run the coding, rewrite the coding and add up some new lines. "main" could not find. 
+-still searching for solutins and he coding
+
+report 12.00pm
 
 -read some article from url, how to connect opencv wth youtube.:
 1)https://stackoverflow.com/questions/50876292/opencv-capture-online-video-for-further-processing-without-downloading-the-file
