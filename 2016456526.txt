@@ -1,3 +1,9 @@
+2018-0815
+
+-report for 12.00 p.m
+finished design database based on the requirement only did not put table for 
+picture upload(still figuring out)
+
 2018-08-14
 
 -report 5.30 p.m
