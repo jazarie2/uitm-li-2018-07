@@ -1,4 +1,7 @@
-2018-0815
+2018-08-15
+
+-report 5.30 p.m
+code web's back-end based on the storyboard(requirement)
 
 -report for 12.00 p.m
 finished design database based on the requirement only did not put table for 
