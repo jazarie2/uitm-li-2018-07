@@ -1,3 +1,9 @@
+2018-08-16
+report 12.00pm
+
+-tried the edited coding again, still looking for the coding to run without error : 
+1)https://stackoverflow.com/questions/43568649/trying-to-read-an-online-video-using-opencv-in-python-not-seeing-the-output-but
+
 2018-08-15
 report 5.30pm
 
