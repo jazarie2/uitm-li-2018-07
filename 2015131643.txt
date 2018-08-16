@@ -1,4 +1,9 @@
 Date: 16/8/2018
+Time: 5:30
+1. Continue morning work.
+2. Try understand how monaca works.
+
+Date: 16/8/2018
 Time: 12:00
 1. Trying using android studio for the publish application.
 2. Maybe trying using monaca.io if still not succeed.
