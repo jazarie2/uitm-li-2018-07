@@ -1,3 +1,8 @@
+2018-08-16
+
+-rpeort 12.00 p.m
+continue code web's back-end based on the storyboard(requirement)
+
 2018-08-15
 
 -report 5.30 p.m
