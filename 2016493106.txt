@@ -1,4 +1,11 @@
 2018-08-16
+report 5.30pm
+
+-help En. Adi essemble a robot in his lab with hafizuddin.
+-still looking for the coding. : 
+1)https://stackoverflow.com/questions/49998606/url-video-stream-of-ip-camera
+
+
 report 12.00pm
 
 -tried the edited coding again, still looking for the coding to run without error : 

@@ -2,6 +2,10 @@
 1. implent banner element from previous editing files
 2. try to implent another section (side-content) to body element of default template
 
+5:30pm
+1. added Responsice Web Design element, side-content
+2. changing main content inside body  to another class
+
 15-08-2018
 1. try n error implementing template layout from D:\xampp\htdocs\bookmarker\src\Template\Layout
 
