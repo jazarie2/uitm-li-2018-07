@@ -1,6 +1,10 @@
 2018-08-16
 
--rpeort 12.00 p.m
+-report 5.30 p.m
+helping en. Adi assemble his robot kit
+continue playing code web's back-end based on the storyboard(requirement)
+
+-report 12.00 p.m
 continue code web's back-end based on the storyboard(requirement)
 
 2018-08-15
