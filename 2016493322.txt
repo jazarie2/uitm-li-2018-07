@@ -1,3 +1,7 @@
+16-08-2018
+1. implent banner element from previous editing files
+2. try to implent another section (side-content) to body element of default template
+
 15-08-2018
 1. try n error implementing template layout from D:\xampp\htdocs\bookmarker\src\Template\Layout
 
