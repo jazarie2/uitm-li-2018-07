@@ -1,5 +1,9 @@
 2018-08-17
 
+-report 5.30 p.m
+help en Adi to assemble his third robot kit
+make a powerpoint slide for report progress from the first week untill now
+
 -report 12.00 p.m
 remove authorization form cms
 continue playing code web's back-end based on the storyboard(requirement)
