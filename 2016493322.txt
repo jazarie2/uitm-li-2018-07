@@ -1,3 +1,8 @@
+17-08-2018
+1. side-content class bring upward to the left by applying "float:right;" to main-content
+2. RWD wont work right after side-content and main-content were side to side positioned
+	- side-content was supposed to take below place if the width of the browser decrease
+
 16-08-2018
 1. implent banner element from previous editing files
 2. try to implent another section (side-content) to body element of default template
