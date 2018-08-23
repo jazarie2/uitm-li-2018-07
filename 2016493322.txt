@@ -4,6 +4,12 @@
 	- edited body element on style.css, but got struck through because it already
 	contained in bace.css
 
+5:30pm
+1. to get rid of the crossed style properties in google chrome devtoos, i just set a class inside
+the element of style.css
+2. but when i did the same thing for other element, it wont work and the style properties is still strucking
+through style from style.css  
+
 17-08-2018
 12pm
 1. side-content class bring upward to the left by applying "float:right;" to main-content
