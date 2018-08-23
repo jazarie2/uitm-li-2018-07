@@ -1,3 +1,9 @@
+23-08-2018
+12pm
+1. studied how to get rid of the crossed style properties in google chrome devtoos
+	- edited body element on style.css, but got struck through because it already
+	contained in bace.css
+
 17-08-2018
 12pm
 1. side-content class bring upward to the left by applying "float:right;" to main-content
