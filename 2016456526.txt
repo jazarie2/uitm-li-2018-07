@@ -1,5 +1,8 @@
 2018-08-24
 
+-report 5.30 p.m
+helping En.Adi with his thermistor project
+
 -report 12.00 p.m
 adding login to index.php
 
