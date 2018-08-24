@@ -1,5 +1,8 @@
 2018-08-23
 
+-report 5.30 p.m
+configure articlescontoller.php file
+
 -report 12.00 p.m
 continue playing code web's back-end based on the storyboard(requirement)
 
