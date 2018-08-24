@@ -1,4 +1,8 @@
 2018-08-24
+report 5.30pm
+
+-Sir Adi ask help for a arduino project, search for guide and assemble the devices
+
 report 12.00pm
 
 -rewrite coding , direct to youtube.
