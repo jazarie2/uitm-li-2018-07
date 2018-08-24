@@ -1,4 +1,9 @@
 Date: 24/8/2018
+Time: 5:30
+1. Continue morning work.
+2. Continue updating the logbook.
+
+Date: 24/8/2018
 Time: 12:00
 1. Still trying using mit since did not find any more example for monaca.io.
 2. Updating the logbook.
