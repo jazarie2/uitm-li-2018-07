@@ -1,3 +1,8 @@
+24-08-2018
+12pm
+1. add another element to replace element 'class=top-bar' that has been set
+to "visibility=hidden", but it cannot display for navigation bar
+
 23-08-2018
 12pm
 1. studied how to get rid of the crossed style properties in google chrome devtoos
