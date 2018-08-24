@@ -1,3 +1,9 @@
+2018-08-24
+report 12.00pm
+
+-rewrite coding , direct to youtube.
+-install pafy, run the coding, error "cannot open file"
+
 2018-08-23
 report 5.30pm
 
