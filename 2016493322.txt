@@ -1,3 +1,9 @@
+25-08-2018
+12pm
+1. meeting with En. Aziz
+	- setup pages by using source code from pages (static web)
+2. edit default, changing web layout taken from https://asiainnoshow.com/
+
 24-08-2018
 12pm
 1. add another element to replace element 'class=top-bar' that has been set
