@@ -1,4 +1,8 @@
 2018-08-25
+report
+
+-continue En Adi thermal project
+ 
 report 12.00pm
 
 -present the progress to En. Aziz, installed pafy, youtube_dl into mobaxterm. 
