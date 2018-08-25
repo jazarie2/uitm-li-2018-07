@@ -4,6 +4,10 @@
 	- setup pages by using source code from pages (static web)
 2. edit default, changing web layout taken from https://asiainnoshow.com/
 
+5:30pm
+1. study how pages in cakephp works and when is it neccessarily needed
+2. edit style.css from webroot
+
 24-08-2018
 12pm
 1. add another element to replace element 'class=top-bar' that has been set
