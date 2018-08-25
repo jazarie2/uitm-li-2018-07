@@ -1,3 +1,8 @@
+2018-08-25
+report 12.00pm
+
+-present the progress to En. Aziz, installed pafy, youtube_dl into mobaxterm. 
+
 2018-08-24
 report 5.30pm
 
@@ -52,7 +57,7 @@ report 5.30pm
 2)http://answers.opencv.org/question/31859/reading-an-online-video/
 
 -stll have the same error after run the coding, rewrite the coding and add up some new lines. "main" could not find. 
--still searching for solutins and he coding
+-still searching for solutions and he coding
 
 report 12.00pm
 
