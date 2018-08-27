@@ -1,7 +1,10 @@
 2018-08-27
 
+-report 5.30 p.m
+try to embed the mc0 formula to the arduino
+
 -report 12.00 p.m
-code the arduino to display the temperature
+code the arduino to display the temperature on the lcd
 
 2018-08-25
 
