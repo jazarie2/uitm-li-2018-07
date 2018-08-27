@@ -4,6 +4,11 @@
 for website icon .ico , .png , .jpg 
 2. add button on top-bar class for navigation button
 
+5:30pm
+1. create a file exactly like cakephp icon to replace it, same size, same name, same type
+2. replacing cakephp icon, but nothing change
+	<link rel="shortcut icon" type="image/png" href="../../../webroot/favicon.ico">
+
 25-08-2018
 12pm
 1. meeting with En. Aziz
