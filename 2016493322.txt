@@ -1,3 +1,9 @@
+27-08-2018
+12pm
+1. install GIMP a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
+for website icon .ico , .png , .jpg 
+2. add button on top-bar class for navigation button
+
 25-08-2018
 12pm
 1. meeting with En. Aziz
