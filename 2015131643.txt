@@ -1,4 +1,11 @@
 Date: 29/8/2018
+Time: 5:30
+1. Continue morning's work.
+2. Still finding ways to connect to server.
+3. Try switching to same wifi but still could not connect.
+4. Recheck the block for error.
+
+Date: 29/8/2018
 Time: 12:00
 1. Try using the example for the extension but comes out with error.
  error: could not connect to server.
