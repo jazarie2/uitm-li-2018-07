@@ -1,3 +1,10 @@
+Date: 29/8/2018
+Time: 12:00
+1. Try using the example for the extension but comes out with error.
+ error: could not connect to server.
+2. Finding a solution since the extension is usefull for the progress of the project.
+
+
 Date: 28/8/2018
 Time: 5:30
 1. Found one mqtt extension for mit app inventor.

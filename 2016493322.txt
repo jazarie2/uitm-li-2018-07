@@ -1,3 +1,7 @@
+29-08-2018
+12pm
+1. edit top-bar navigation menu
+
 28-08-2018
 12pm
 1. try to copy header style element from https://asiainnoshow.com/ to implent inside http://localhost:1234/ideabox/,
