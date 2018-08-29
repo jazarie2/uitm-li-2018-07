@@ -2,6 +2,11 @@
 
 Report 12.00PM
 Upload the traffic video to MobileXTerm and run the code 
+But, the video is stopped and lagged
+
+Report 5.30PM
+Upload the video to hazwan to test the code
+Thus, the result is same as me
 
 2018-08-28
 
