@@ -1,4 +1,9 @@
 2018-08-29
+
+-download the video from haikal's file to my computer, upload the video to my file in mobaxterm.
+the internet connection was poor, the downloading and uploading process take so much time to complete.
+- rewrite the coding for the recorded video, its run without an error, but the video was zoomed in, and lagging.
+
 report 12pm
 
 -stop doing the thermal camera project, help Hafizuddin with thermistor project
