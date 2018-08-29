@@ -2,6 +2,12 @@
 12pm
 1. edit top-bar navigation menu
 
+5:30pm
+1. manage to make added navigation button stay inline on top
+	- clear some tag originally written before inside style.css
+2. added hyperlink directly from default.ctp to specified html files
+	- but not connected yet
+
 28-08-2018
 12pm
 1. try to copy header style element from https://asiainnoshow.com/ to implent inside http://localhost:1234/ideabox/,
