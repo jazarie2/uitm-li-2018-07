@@ -1,4 +1,10 @@
 Date: 30/8/2018
+Time: 5:30
+1. Continue morning works.
+2. Try finding answers in forum for the example.
+3. Updating logbook.
+
+Date: 30/8/2018
 Time: 12:00
 1. Help with delivering En. Aimi electronic components.
 2. Still trying to enstablish connection with the broker server using the mit extension.
