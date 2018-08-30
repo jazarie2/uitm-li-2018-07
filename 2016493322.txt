@@ -2,6 +2,11 @@
 12pm
 1. comittee page from https://asiainnoshow.com/comitteeais18/
 
+5:30pm
+1. change layout of 2 section
+	- then some styles element went missing
+2. set image of comittee to be wide on the screen
+
 29-08-2018
 12pm
 1. edit top-bar navigation menu
