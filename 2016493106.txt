@@ -1,3 +1,10 @@
+2018-08-03
+rerport 5.30pm
+
+-Help En adi with Electrical Enginering booth in Uitm Pulau Pinang banquet hall. 
+-Control the the display robot using makeblock apps.
+-Diassemble all three robot, and put it back into each boxes. 
+
 2018-08-30
 report
 -run all side of video recorded.
