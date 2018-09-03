@@ -1,7 +1,13 @@
+2018-09-03
+
+-report 5.30 p.m
+when for education event at UiTMPP hotel banquet and help en.Adi at FKE booth.
+diassamble the robot kit
+
 2018-08-30
 
 -report 5.30 p.m
-emai the code to en. Adi and miss Fatimah
+email the code to en. Adi and miss Fatimah
 
 -report 12.00 p.m
 continue code the arduino uno
