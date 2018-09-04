@@ -3,6 +3,10 @@
 1. lecturer visit by Pn. Siti Azura
 2. link http://localhost:1234/ideabox/users/login to http://localhost:1234/ideabox/articles/index
 
+5:30pm
+1. deleted guidelines.ctp since wont be needing by client
+2. add about.ctp for pages
+
 03-09-2018
 5:30pm
 1. edit guideline.ctp referring https://asiainnoshow.com/guidelines/
