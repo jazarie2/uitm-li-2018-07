@@ -1,3 +1,12 @@
+Date: 4/9/2018
+Time: 12:00
+1. Finding more infomation on how to publish image.
+ url: 1. https://puravidaapps.com/sharing.php
+      2. https://stackoverflow.com/questions/36393871/uploading-images-to-cloud-while-using-app-inventor-for-android
+      3. http://appinventor.mit.edu/explore/ai2/file-sharing.html
+2. Try creating simple sharing app.
+
+
 Date: 3/9/2018
 Time: 5:30
 1. Succesfully published to broker and subscriber using created mobile application.
