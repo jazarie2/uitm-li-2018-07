@@ -1,4 +1,10 @@
 Date: 5/9/2018
+Time: 5:30
+1. Trying to share image using mit database but come out with error.
+ error:file could not be read by database
+2. Finding solution and try with another example.
+
+Date: 5/9/2018
 Time: 12:00
 1. Trying to use the publish app in multiple devices.
 2. Trying to combine the example found with the mqtt extension.
