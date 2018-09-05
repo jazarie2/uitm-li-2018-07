@@ -1,3 +1,11 @@
+05-09-2019
+12pm
+1. edit all display features from style.css to make it evenly the same without odds
+2. changed footer display setup
+
+5:30pm
+1. set image inside about.ctp page beside description of what is the website about
+
 04-09-2018
 12pm
 1. lecturer visit by Pn. Siti Azura
