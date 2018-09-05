@@ -1,4 +1,11 @@
 2018-08-05
+report 5.30pm
+
+-try this method, but nothing fixed.
+1)https://www.howtogeek.com/howto/windows/fix-for-vlc-skipping-and-lagging-playing-high-def-video-files/
+
+-start industrial training reports.
+
 report 12.00pm
 
 -look out for solutions about the lagging output video from the coding.
