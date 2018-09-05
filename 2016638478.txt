@@ -1,3 +1,9 @@
+2018-09-05
+
+Report 12.00PM
+Test again the coding with the other video which is small size.
+The lag is reduced in small size video. 
+
 2018-09-04
 
 Report 12.00PM
