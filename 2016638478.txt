@@ -4,6 +4,9 @@ Report 12.00PM
 Test again the coding with the other video which is small size.
 The lag is reduced in small size video. 
 
+Report 5.30PM
+Try to reduce the traffic video size to reduce the lag
+
 2018-09-04
 
 Report 12.00PM
