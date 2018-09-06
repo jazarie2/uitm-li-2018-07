@@ -1,4 +1,8 @@
-05-09-2019
+06-09-2018
+12pm
+1. write a description for the web to be place in about.ctp page
+
+05-09-2018
 12pm
 1. edit all display features from style.css to make it evenly the same without odds
 2. changed footer display setup
