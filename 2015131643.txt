@@ -1,4 +1,9 @@
 Date: 6/9/2018
+Time: 5:30
+1. Continue morning works.
+2. Still trying to publish an image through mqtt using mit.
+
+Date: 6/9/2018
 Time: 12:00
 1. Try combining the block for mit database with block for mqtt cloud but nothing show up when publish.
 2. Try using only block for mit database but nothing comes out from the result.
