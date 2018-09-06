@@ -1,4 +1,10 @@
-2018-08-05
+2018-09-06
+report 
+
+-try run the video using En.  Adi's wifi, but still lagging. 
+- still searching for solutions.
+
+2018-09-05
 report 5.30pm
 
 -try this method, but nothing fixed.
@@ -10,7 +16,7 @@ report 12.00pm
 
 -look out for solutions about the lagging output video from the coding.
 
-2018-08-04
+2018-09-04
 report 5.30pm
 
 -run the coding with each of the video, all the video were larger when play with the coding, 
@@ -21,7 +27,7 @@ report 12.00pm
 
 -Lecturer visit by Pn. Siti Azura.
 
-2018-08-03
+2018-09-03
 rerport 5.30pm
 
 -Help En adi with Electrical Enginering booth in Uitm Pulau Pinang banquet hall. 
