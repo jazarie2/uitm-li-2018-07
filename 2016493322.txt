@@ -2,6 +2,10 @@
 12pm
 1. write a description for the web to be place in about.ctp page
 
+5:30pm
+1. edit style.css and default.ctp to adapt with pages, but element got grayed-out
+2. edit about.ctp of page
+
 05-09-2018
 12pm
 1. edit all display features from style.css to make it evenly the same without odds
