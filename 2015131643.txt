@@ -1,3 +1,10 @@
+Date: 7/9/2018
+Time: 12:00
+1. Updating the github repository for the project development.
+2. Updated the main program code for the mobile application.
+3. Updating the logbook.
+
+
 Date: 6/9/2018
 Time: 5:30
 1. Continue morning works.
