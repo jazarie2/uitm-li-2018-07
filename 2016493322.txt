@@ -2,6 +2,9 @@
 12pm
 1. set pages wanted by client and not wanted
 
+5:30pm
+1. signing off
+
 06-09-2018
 12pm
 1. write a description for the web to be place in about.ctp page
